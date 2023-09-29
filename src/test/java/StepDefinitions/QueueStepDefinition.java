@@ -1,7 +1,7 @@
 package StepDefinitions;
 
 import PageObjects.QueuePage;
-import Utilities.LoggerLoad;
+//import Utilities.LoggerLoad;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -10,7 +10,7 @@ public class QueueStepDefinition {
 	
 
 	QueuePage queue = new QueuePage();
-	LoggerLoad log = new LoggerLoad();
+	//LoggerLoad log = new LoggerLoad();
 	
 	@Given("The user in queue page")
 	public void the_user_in_queue_page() {

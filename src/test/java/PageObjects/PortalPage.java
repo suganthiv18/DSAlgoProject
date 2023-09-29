@@ -1,35 +1,43 @@
 package PageObjects;
 
-import java.time.Duration;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import Utilities.ConfigReader;
+import Utilities.DriverFactory;
+
 
 public class PortalPage {
 
-	public static WebDriver driver=new ChromeDriver();
-	String url="https://dsportalapp.herokuapp.com";
+	public static WebDriver driver=DriverFactory.getdriver();
+	
+	String url=ConfigReader.getPortalUrl();
+		
+	@FindBy (xpath="//a[@href='/home']")WebElement GetStartedLink;
+	
+	public PortalPage() {
 
+		PageFactory.initElements(driver, this);
+	}
 	
 	public void openPortal() {
 
-//	System.setProperty("webdiver.chrome.driver","C:\\Users\\Manoj\\eclipse-workspace\\DS-Algo\\src\\test\\resources\\driver\\chromedriver.exe");
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-		driver.manage().window().maximize();
-		driver.get(url);
+        driver.get(url);
 		
 	}
 
 	public void clickGetStarted() {
-		driver.findElement(By.linkText("Get Started")).click();
+		
+		GetStartedLink.click();
 
 	}
 
-	public String getTitle() {
+	public String getPageTitle() {
 
-		String title=driver.getTitle();
-		return title;
-
-	}
+		return driver.getTitle();
+		}
 }

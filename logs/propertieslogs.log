@@ -1,1 +1,422 @@
-[INFO ] 2023-09-20 09:14:59.311 [main] LoggerLoad - This is a test message
+[INFO ] 2023-09-28 21:44:58.547 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:44:58.553 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:44:58.553 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:45:08.521 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:45:08.664 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:45:08.665 [main] LoggerLoad - [@LinkedList, @LinkedList13] : user navigated to Implementation linked list in python page
+[INFO ] 2023-09-28 21:45:08.665 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:45:08.693 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-09-28 21:45:12.212 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-09-28 21:45:12.399 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:45:12.399 [main] LoggerLoad - [@LinkedList, @LinkedList14] : User navigated to tryEditor page with Run button from Implement Linked List in Python page
+[INFO ] 2023-09-28 21:45:12.399 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:45:12.400 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-09-28 21:45:12.426 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:45:12.427 [main] LoggerLoad - [@LinkedList, @LinkedList15] : The user run the code in tryEditor with valid input for Implement Linked List in Python page
+[INFO ] 2023-09-28 21:45:12.427 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:45:12.427 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-09-28 21:45:14.021 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-09-28 21:45:14.022 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-09-28 21:45:14.109 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-09-28 21:45:14.133 [main] LoggerLoad - The result is :
+[INFO ] 2023-09-28 21:45:14.146 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:45:14.146 [main] LoggerLoad - [@LinkedList, @LinkedList16] : The user getting error message with invalid python code for Implement Linked List in Python page
+[INFO ] 2023-09-28 21:45:14.146 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:45:14.146 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-09-28 21:45:15.380 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-09-28 21:45:15.384 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-09-28 21:47:37.912 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:47:37.926 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:47:37.926 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:47:43.473 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:47:43.607 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:47:43.607 [main] LoggerLoad - [@LinkedList, @LinkedList13] : user navigated to Implementation linked list in python page
+[INFO ] 2023-09-28 21:47:43.607 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:47:43.632 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-09-28 21:47:47.006 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-09-28 21:47:47.102 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:47:47.103 [main] LoggerLoad - [@LinkedList, @LinkedList14] : User navigated to tryEditor page with Run button from Implement Linked List in Python page
+[INFO ] 2023-09-28 21:47:47.103 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:47:47.104 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-09-28 21:50:38.203 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:50:38.218 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:50:38.218 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:50:43.742 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:50:43.870 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:50:43.870 [main] LoggerLoad - [@LinkedList, @LinkedList1] : User navigated to Introduction page
+[INFO ] 2023-09-28 21:50:43.871 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:50:43.896 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-09-28 21:50:48.290 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-09-28 21:50:48.656 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-09-28 21:50:48.673 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-09-28 21:51:13.596 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:51:13.601 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:51:13.602 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:51:18.473 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:51:18.601 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:51:18.601 [main] LoggerLoad - [@LinkedList, @LinkedList2] : User navigated to tryEditor page with Run button from Introduction page
+[INFO ] 2023-09-28 21:51:18.601 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:51:18.624 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-09-28 21:51:22.180 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-09-28 21:51:23.442 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-09-28 21:51:23.448 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-09-28 21:51:44.051 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:51:44.057 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:51:44.057 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:51:52.161 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:51:52.323 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:51:52.323 [main] LoggerLoad - [@LinkedList, @LinkedList3] : The user run the code in tryEditor with valid input for Introduction page
+[INFO ] 2023-09-28 21:51:52.323 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:51:52.353 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-09-28 21:51:56.177 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-09-28 21:51:56.328 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-09-28 21:51:56.664 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-09-28 21:52:18.986 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:52:18.991 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:52:18.992 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:52:24.282 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:52:24.421 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:52:24.422 [main] LoggerLoad - [@LinkedList, @LinkedList3] : The user run the code in tryEditor with valid input for Introduction page
+[INFO ] 2023-09-28 21:52:24.422 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:52:24.446 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-09-28 21:52:28.209 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-09-28 21:52:28.317 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-09-28 21:52:28.407 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-09-28 21:52:28.434 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-09-28 21:52:53.456 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:52:53.460 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:52:53.461 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:52:58.565 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:52:58.725 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:52:58.726 [main] LoggerLoad - [@LinkedList, @LinkedList4] : The user getting error message with invalid python code for Introduction page
+[INFO ] 2023-09-28 21:52:58.726 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:52:58.750 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-09-28 21:53:02.595 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-09-28 21:53:02.673 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-09-28 21:53:02.756 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-09-28 21:53:24.452 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:53:24.457 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:53:24.457 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:53:29.441 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:53:29.596 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:53:29.596 [main] LoggerLoad - [@LinkedList, @LinkedList5] : User navigated to creating linked list page
+[INFO ] 2023-09-28 21:53:29.597 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:53:29.627 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-09-28 21:53:33.312 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-09-28 21:53:33.834 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-09-28 21:53:33.848 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-09-28 21:54:07.791 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:54:07.797 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:54:07.797 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:54:13.083 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:54:13.184 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:54:13.184 [main] LoggerLoad - [@LinkedList, @LinkedList9] : User navigated to Types of linked list page
+[INFO ] 2023-09-28 21:54:13.184 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:54:13.205 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-09-28 21:54:17.340 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-09-28 21:56:34.006 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:56:34.011 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:56:34.011 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:56:40.371 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:56:40.504 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:56:40.505 [main] LoggerLoad - [@LinkedList, @LinkedList9] : User navigated to Types of linked list page
+[INFO ] 2023-09-28 21:56:40.505 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:56:40.530 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-09-28 21:56:44.262 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-09-28 21:56:44.834 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-09-28 21:56:44.847 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-09-28 21:57:24.101 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 21:57:24.107 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 21:57:24.107 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 21:57:30.006 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 21:57:30.135 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:57:30.135 [main] LoggerLoad - [@LinkedList, @LinkedList13] : user navigated to Implementation linked list in python page
+[INFO ] 2023-09-28 21:57:30.136 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 21:57:30.163 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-09-28 21:57:34.287 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-09-28 21:57:34.479 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-09-28 21:57:34.490 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-09-28 23:07:33.950 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 23:07:33.956 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 23:08:24.619 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-28 23:08:24.627 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-28 23:08:24.627 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-28 23:08:30.990 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-28 23:08:31.113 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 23:08:31.113 [main] LoggerLoad - [@DSAlgoPortal, @DSAlgoPortal1] : The user launch DS Algo portal url
+[INFO ] 2023-09-28 23:08:31.114 [main] LoggerLoad - -----------------------------------------------------------------------------------------------
+[INFO ] 2023-09-28 23:08:31.136 [main] LoggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-09-28 23:08:34.047 [main] LoggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-09-28 23:08:34.788 [main] LoggerLoad - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-09-29 00:30:21.005 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 00:30:21.011 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 00:35:24.906 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 00:35:24.958 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 00:35:24.958 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-29 00:35:31.631 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-29 00:35:31.782 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:35.249 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-09-29 00:35:36.035 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:36.081 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:36.201 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-09-29 00:35:36.467 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:36.489 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:36.594 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-09-29 00:35:36.857 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:36.905 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:37.030 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-09-29 00:35:37.286 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:37.340 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:37.449 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-09-29 00:35:37.704 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:37.723 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:37.811 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-09-29 00:35:38.069 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:38.084 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:38.206 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-09-29 00:35:38.491 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:38.503 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:38.665 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-09-29 00:35:38.890 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:38.897 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:39.058 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-09-29 00:35:39.275 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:39.287 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:39.477 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-09-29 00:35:39.703 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:39.712 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:39.851 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-09-29 00:35:40.081 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:40.086 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:40.261 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-09-29 00:35:40.473 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:40.478 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:40.616 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-09-29 00:35:40.826 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:35:40.832 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:41.170 [main] LoggerLoad - User redirected to login page 
+[INFO ] 2023-09-29 00:35:41.178 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-09-29 00:35:41.188 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:35:42.001 [main] LoggerLoad - User redirected to Registraion page 
+[INFO ] 2023-09-29 00:35:42.012 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-09-29 00:37:45.596 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 00:37:45.676 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 00:37:45.677 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-29 00:37:54.059 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-29 00:38:04.573 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:14.605 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:15.933 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-09-29 00:38:17.353 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:17.377 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:17.917 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-09-29 00:38:28.087 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:37.938 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-09-29 00:38:41.271 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:41.294 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:41.521 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-09-29 00:38:42.315 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:42.328 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:42.423 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-09-29 00:38:43.332 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:43.345 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:43.581 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-09-29 00:38:44.565 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:44.576 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:44.715 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-09-29 00:38:45.298 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:45.308 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:45.439 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-09-29 00:38:45.759 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:45.766 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:45.899 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-09-29 00:38:47.726 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:47.733 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:47.860 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-09-29 00:38:48.544 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:48.551 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:48.675 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-09-29 00:38:48.868 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:48.875 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:49.011 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-09-29 00:38:49.895 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:38:49.903 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:50.188 [main] LoggerLoad - User redirected to login page 
+[INFO ] 2023-09-29 00:38:50.194 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-09-29 00:38:50.200 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:38:51.135 [main] LoggerLoad - User redirected to Registraion page 
+[INFO ] 2023-09-29 00:38:51.147 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-09-29 00:38:51.163 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-09-29 00:38:51.864 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-09-29 00:38:52.181 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-09-29 00:38:52.190 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-09-29 00:38:52.203 [main] LoggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-09-29 00:38:53.605 [main] LoggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-09-29 00:38:53.935 [main] LoggerLoad - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-09-29 00:54:16.453 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 00:54:16.458 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 00:54:16.458 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-29 00:54:22.866 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-29 00:54:23.020 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:26.433 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-09-29 00:54:27.289 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:27.316 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:27.787 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-09-29 00:54:28.139 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:28.166 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:28.285 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-09-29 00:54:28.579 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:28.592 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:28.721 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-09-29 00:54:28.977 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:28.987 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:29.086 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-09-29 00:54:29.330 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:29.342 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:29.434 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-09-29 00:54:29.767 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:29.781 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:29.874 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-09-29 00:54:30.137 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:30.161 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:30.302 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-09-29 00:54:30.548 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:30.553 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:30.690 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-09-29 00:54:30.902 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:30.909 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:31.049 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-09-29 00:54:31.290 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:31.298 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:31.543 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-09-29 00:54:31.759 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:31.768 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:31.913 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-09-29 00:54:32.122 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:32.126 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:32.266 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-09-29 00:54:32.477 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 00:54:32.484 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:32.740 [main] LoggerLoad - User redirected to login page 
+[INFO ] 2023-09-29 00:54:32.750 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-09-29 00:54:32.759 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 00:54:33.141 [main] LoggerLoad - User redirected to Registraion page 
+[INFO ] 2023-09-29 00:54:33.148 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-09-29 00:59:53.621 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 00:59:53.626 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 00:59:53.631 [main] LoggerLoad - Testing on Edge
+[INFO ] 2023-09-29 00:59:59.235 [main] LoggerLoad - Initializing driver for : edge
+[INFO ] 2023-09-29 01:00:03.423 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:03.753 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-09-29 01:00:04.048 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:04.061 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:04.158 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-09-29 01:00:04.410 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:04.422 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:04.511 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-09-29 01:00:04.756 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:04.768 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:04.857 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-09-29 01:00:05.098 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:05.106 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:05.215 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-09-29 01:00:05.511 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:05.525 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:05.613 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-09-29 01:00:05.857 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:05.874 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:05.961 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-09-29 01:00:06.218 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:06.227 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:06.385 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-09-29 01:00:06.597 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:06.602 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:06.727 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-09-29 01:00:06.927 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:06.934 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:07.076 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-09-29 01:00:07.295 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:07.300 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:07.441 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-09-29 01:00:07.658 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:07.666 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:07.812 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-09-29 01:00:08.040 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:08.045 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:08.188 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-09-29 01:00:08.394 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:00:08.400 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:08.695 [main] LoggerLoad - User redirected to login page 
+[INFO ] 2023-09-29 01:00:08.710 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-09-29 01:00:08.717 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:00:09.223 [main] LoggerLoad - User redirected to Registraion page 
+[INFO ] 2023-09-29 01:00:09.229 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-09-29 01:00:09.237 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-09-29 01:00:09.443 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-09-29 01:00:09.581 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-09-29 01:00:09.589 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-09-29 01:00:09.598 [main] LoggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-09-29 01:00:09.739 [main] LoggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-09-29 01:00:09.939 [main] LoggerLoad - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-09-29 01:05:47.917 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 01:05:47.934 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 01:05:50.812 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 01:05:50.820 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 01:06:39.319 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 01:06:39.323 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 01:09:03.462 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 01:09:03.467 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 01:09:11.261 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 01:09:11.268 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 01:09:55.079 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 01:09:55.084 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 01:10:41.662 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 01:10:41.669 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 01:12:05.978 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-09-29 01:12:05.986 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-09-29 01:12:05.988 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-09-29 01:12:45.381 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-09-29 01:12:45.761 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:12:52.832 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-09-29 01:12:54.728 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:12:55.524 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:12:55.759 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-09-29 01:12:56.046 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:12:56.065 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:12:56.333 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-09-29 01:12:56.623 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:12:56.646 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:12:56.793 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-09-29 01:12:57.086 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:12:57.104 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:12:57.213 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-09-29 01:12:57.566 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:12:57.591 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:12:58.004 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-09-29 01:12:58.309 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:12:58.317 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:12:58.445 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-09-29 01:12:58.726 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:12:58.735 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:12:59.545 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-09-29 01:13:00.443 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:13:00.459 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:13:00.817 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-09-29 01:13:01.363 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:13:01.376 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:13:01.749 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-09-29 01:13:02.360 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:13:02.366 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:13:02.842 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-09-29 01:13:03.175 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:13:03.181 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:13:03.549 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-09-29 01:13:03.879 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:13:03.885 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:13:04.423 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-09-29 01:13:04.958 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-09-29 01:13:04.966 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:13:05.565 [main] LoggerLoad - User redirected to login page 
+[INFO ] 2023-09-29 01:13:05.615 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-09-29 01:13:05.633 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-09-29 01:13:05.977 [main] LoggerLoad - User redirected to Registraion page 
+[INFO ] 2023-09-29 01:13:05.982 [main] LoggerLoad - Title of current page is : Login

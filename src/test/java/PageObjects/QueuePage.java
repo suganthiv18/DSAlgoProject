@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import Utilities.LoggerLoad;
+//import Utilities.LoggerLoad;
 
 public class QueuePage {
 
@@ -17,7 +17,7 @@ public class QueuePage {
 	String editorurl = "https://dsportalapp.herokuapp.com/tryEditor";
 	String qpracquesurl = "https://dsportalapp.herokuapp.com/queue/practice";
 	
-	LoggerLoad log = new LoggerLoad();
+	//LoggerLoad log = new LoggerLoad();
 	
 
     
@@ -67,7 +67,7 @@ public class QueuePage {
 	public void clickEditorUrl() {
 			
 			driver.get(editorurl);
-			log.info(driver.getTitle());
+	//		log.info(driver.getTitle());
 	}
 	
 	public void clickRun() throws InterruptedException {
