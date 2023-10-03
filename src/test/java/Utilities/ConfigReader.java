@@ -12,7 +12,7 @@ public class ConfigReader {
 	public static void loadConfig() throws Throwable {
 
 		try {
-			FileInputStream fis;
+			FileInputStream fis; 
 			fis = new FileInputStream(propertyFilePath);
 			properties = new Properties();
 			try {
@@ -27,8 +27,8 @@ public class ConfigReader {
 		}
 	}
 
-	private static String browserType=null;
-	
+//	private static String browserType=null;
+//	
 //	public static void setBrowserType(String browser) {
 //		browserType=browser;
 //	}
@@ -43,12 +43,21 @@ public class ConfigReader {
 //	}
 	
 	public static String getBrowserType()throws Throwable {
-String browser = properties.getProperty("browser");
+        String browser = properties.getProperty("browser");
 		LoggerLoad.info("Get property BrowserType");
 		if (browser != null)
 			return browser;
 		else
 			throw new RuntimeException("browser not specified in the config.properties file.");
+	}
+	
+	public static String getExcelFilepPath() {
+		String path=properties.getProperty("excelpath");
+		LoggerLoad.info("Get property BrowserType");
+		if (path != null)
+			return path;
+		else
+			throw new RuntimeException("Excel path not specified in the config.properties file.");
 	}
 
 	public static String getPortalUrl() {
@@ -67,6 +76,13 @@ String browser = properties.getProperty("browser");
 			throw new RuntimeException("Homeurl not specified in the Configuration.properties file.");
 	}
 	
+	public static String getSignInUrl() {
+		String url = properties.getProperty("loginurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Login url not specified in the Configuration.properties file.");
+	}
 	// Array 
 	public static String getArrayUrl() {
 		String url = properties.getProperty("arrayurl");
@@ -164,6 +180,35 @@ String browser = properties.getProperty("browser");
 		else
 			throw new RuntimeException("Inplement Linked List in Python Url not specified in the Config.properties file.");
 	}
+	public static String getTraversalUrl() {
+		String url = properties.getProperty("traversalurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Traversal Url not specified in the Config.properties file.");
+	}
 	
+	public static String getInsertionUrl() {
+		String url = properties.getProperty("insertionurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Insertion Url not specified in the Config.properties file.");
+	}
+	public static String getDeletionUrl() {
+		String url = properties.getProperty("deletionurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Deletion Url not specified in the Config.properties file.");
+	}
+	
+	public static String getPracQnLLUrl() {
+		String url = properties.getProperty("pracQnUrl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Practice Question Url not specified in the Config.properties file.");
+	}
 	
 }

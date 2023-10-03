@@ -41,12 +41,12 @@ public class Hooks {
 	}
 	
 	
-//	@AfterAll
-//	public static void after() {
-//		
-//		LoggerLoad.info("Closing Driver");
-//	    DriverFactory.closeallDriver();
-//	}
+	@AfterAll
+	public static void after() {
+		
+		LoggerLoad.info("Closing Driver");
+	    DriverFactory.closeallDriver();
+	}
 	
 	
 }

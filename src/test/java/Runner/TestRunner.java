@@ -15,26 +15,26 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 @RunWith(Cucumber.class)
 @CucumberOptions(features="src/test/resources/Features",
 glue={"StepDefinitions","Hooks"},
-tags="@Home"
-//plugin = {"pretty","html:target/HTMLreports/report.html",
-//		"json:target/JSONreports/report.json",
-//"junit:target/Junitreports/report.xml"},
-//monochrome = true)
-)
+plugin = {"pretty","io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
+		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
+		"json:target/JSONreports/report.json"},
+dryRun=false,
+monochrome = true)
+
 public class TestRunner{
 	
 }
 
 //public class TestRunner extends AbstractTestNGCucumberTests {
-//
-////	@DataProvider(parallel=true)
-////	public Object[][]scenarios(){
-////		return super.scenarios();
-////	}
-////	
-////	@BeforeTest
-////	@Parameters("browserType")
-////	public void beforeClass(String browser){
-////		ConfigReader.setBrowserType("browserType");
-////	}
+
+//	@DataProvider(parallel=false)
+//	public Object[][]scenarios(){
+//		return super.scenarios();
+//	}
+//	
+//	@BeforeTest
+//	@Parameters("browser")
+//	public void beforeClass(String browser){
+//		ConfigReader.setBrowserType("browser");
+//	}
 //}

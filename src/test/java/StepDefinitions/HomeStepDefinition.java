@@ -43,10 +43,10 @@ public class HomeStepDefinition {
 
 	@Then("The user gets redirected to Register Page")
 	public void the_user_gets_redirected_to_register_page() {
-		LoggerLoad.info("User redirected to login page ");
+		LoggerLoad.info("User redirected to Register page ");
 		String title=homePage.getTitle();
 		LoggerLoad.info("Title of current page is : " + title);
-		assertEquals(title, "Registration", "Title do not match");
+		assertEquals(title, "Registration", "Title do not match"); 
 	}
 	
 	@When("user clicks on Sign in link")
@@ -57,9 +57,8 @@ public class HomeStepDefinition {
 	@Then("The user gets redirected to Signin Page")
 	public void the_user_gets_redirected_to_signin_page() {
 		
-		LoggerLoad.info("User redirected to Registraion page ");
+		LoggerLoad.info("User redirected to Login page ");
 		String title=homePage.getTitle();
-		System.out.println(title);
 		LoggerLoad.info("Title of current page is : " + title);
 		assertEquals(title, "Login", "Title do not match");
 	}
