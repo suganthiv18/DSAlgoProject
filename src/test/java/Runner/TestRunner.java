@@ -18,6 +18,7 @@ glue={"StepDefinitions","Hooks"},
 plugin = {"pretty","io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 		"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
 		"json:target/JSONreports/report.json"},
+tags="@LinkedList",
 dryRun=false,
 monochrome = true)
 
