@@ -51,19 +51,19 @@ public class ArrayPage {
 		PageFactory.initElements(driver, this);
 	}
 	
-	public void getSiginPage() {
-
-		driver.get(siginUrl);
-	}
+//	public void getSiginPage() {
+//
+//		driver.get(siginUrl);
+//	}
 	
-	public void Login(String uname, String pwd) {
-
-		username.clear();
-		username.sendKeys(uname);
-		password.clear();
-		password.sendKeys(pwd);
-	
-		}
+//	public void Login(String uname, String pwd) {
+//
+//		username.clear();
+//		username.sendKeys(uname);
+//		password.clear();
+//		password.sendKeys(pwd);
+//	
+//		}
 	public void clickArrayPage() {
 
 		driver.get(arrayurl);
