@@ -3166,3 +3166,808 @@
 [INFO ] 2023-10-03 21:01:54.356 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
 [INFO ] 2023-10-03 21:01:54.371 [main] LoggerLoad - Title of current page is : Practice Questions
 [INFO ] 2023-10-03 21:01:54.377 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-03 23:13:37.084 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-03 23:13:37.103 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:37.105 [main] LoggerLoad - Testing on chrome
+[INFO ] 2023-10-03 23:13:43.348 [main] LoggerLoad - Initializing driver for : chrome
+[INFO ] 2023-10-03 23:13:44.240 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:44.273 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:13:47.194 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:13:47.689 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-10-03 23:13:47.711 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-10-03 23:13:48.034 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:48.035 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-10-03 23:13:48.289 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-10-03 23:13:49.270 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-10-03 23:13:49.284 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-10-03 23:13:49.459 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:49.461 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:13:49.705 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:13:53.653 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:13:53.752 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:13:53.792 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:13:54.191 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:54.192 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:13:54.478 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:13:54.751 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:13:56.878 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:13:56.985 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:56.987 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:13:57.158 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-10-03 23:13:57.382 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-10-03 23:13:57.393 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-10-03 23:13:57.457 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:57.458 [main] LoggerLoad - User is on creating Linkes LIst
+[INFO ] 2023-10-03 23:13:57.605 [main] LoggerLoad - User clicks on Try Here Link
+[INFO ] 2023-10-03 23:13:57.977 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:57.979 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:13:57.989 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:13:58.037 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:58.037 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:13:58.306 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:13:58.472 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:13:58.547 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:13:58.580 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:13:58.678 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:13:58.679 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:13:58.899 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:13:59.075 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:14:01.154 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:14:01.204 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:01.205 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:14:01.514 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-10-03 23:14:01.847 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:14:01.855 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-10-03 23:14:01.870 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:01.871 [main] LoggerLoad - The user is on the Types of Linked list page
+[INFO ] 2023-10-03 23:14:02.080 [main] LoggerLoad - The user clicks Try Here button on Types of linked list page
+[INFO ] 2023-10-03 23:14:02.337 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:02.339 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:14:02.350 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:14:02.383 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:02.383 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:02.604 [main] LoggerLoad - Enter values from sheet
+[ERROR] 2023-10-03 23:14:02.772 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-03 23:14:02.858 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:02.863 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:03.043 [main] LoggerLoad - Enter values from sheet
+[ERROR] 2023-10-03 23:14:03.253 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-03 23:14:03.283 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:03.286 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:14:03.439 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-10-03 23:14:03.603 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:14:03.614 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-10-03 23:14:03.660 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:03.662 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-10-03 23:14:04.187 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:04.190 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:14:04.200 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:14:04.216 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:04.216 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:04.459 [main] LoggerLoad - Enter values from sheet
+[ERROR] 2023-10-03 23:14:04.635 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-03 23:14:04.701 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:04.702 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:04.886 [main] LoggerLoad - Enter values from sheet
+[ERROR] 2023-10-03 23:14:05.109 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-03 23:14:05.163 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:05.164 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:14:05.369 [main] LoggerLoad - The user clicks the Traversal button
+[INFO ] 2023-10-03 23:14:05.577 [main] LoggerLoad - The user is on Traversal of Linked List Page
+[INFO ] 2023-10-03 23:14:05.587 [main] LoggerLoad - Title of current page is : Traversal
+[INFO ] 2023-10-03 23:14:05.627 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:05.628 [main] LoggerLoad - The user is on the Traversal Page 
+[INFO ] 2023-10-03 23:14:05.749 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:14:06.001 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:06.002 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:14:06.009 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:14:06.153 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:06.158 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:06.603 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:14:06.858 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:14:06.925 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:14:06.943 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:14:06.953 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:06.953 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:07.181 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:14:07.360 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:14:09.453 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:14:09.477 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:09.479 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:14:09.631 [main] LoggerLoad - The user clicks the Insertion button
+[INFO ] 2023-10-03 23:14:09.812 [main] LoggerLoad - The user is on Insertion Page
+[INFO ] 2023-10-03 23:14:09.828 [main] LoggerLoad - Title of current page is : Insertion
+[INFO ] 2023-10-03 23:14:09.860 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:09.860 [main] LoggerLoad - The user is on the Insertion button
+[INFO ] 2023-10-03 23:14:10.089 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:14:10.372 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:10.373 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:14:10.384 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:14:10.396 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:10.396 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:10.587 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:14:10.749 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:14:10.822 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:14:10.841 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:14:10.854 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:10.858 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:11.017 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:14:11.245 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:14:13.354 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:14:13.386 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:13.386 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:14:13.615 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:14:13.766 [main] LoggerLoad - The user is on Deletion Page
+[INFO ] 2023-10-03 23:14:13.776 [main] LoggerLoad - Title of current page is : Deletion
+[INFO ] 2023-10-03 23:14:13.798 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:13.799 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:14:14.002 [main] LoggerLoad - The user clicks Try Here button on Deletion page
+[INFO ] 2023-10-03 23:14:14.280 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:14.281 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:14:14.288 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:14:14.319 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:14.320 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:14.566 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:14:14.746 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:14:14.794 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:14:14.810 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:14:14.863 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:14.864 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:14:15.079 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:14:15.220 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:14:17.346 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:14:17.416 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:14:17.416 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:14:17.621 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:14:17.798 [main] LoggerLoad - The user clicks on the Practice Questions
+[INFO ] 2023-10-03 23:14:17.986 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
+[INFO ] 2023-10-03 23:14:18.015 [main] LoggerLoad - Title of current page is : Practice Questions
+[INFO ] 2023-10-03 23:14:18.022 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-03 23:23:16.721 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-03 23:23:16.728 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:16.732 [main] LoggerLoad - Testing on chrome
+[INFO ] 2023-10-03 23:23:20.538 [main] LoggerLoad - Initializing driver for : chrome
+[INFO ] 2023-10-03 23:23:21.260 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:21.295 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:23:23.170 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:23:23.838 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-10-03 23:23:23.855 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-10-03 23:23:24.150 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:24.153 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-10-03 23:23:24.292 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-10-03 23:23:25.289 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-10-03 23:23:25.297 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-10-03 23:23:25.351 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:25.352 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:25.571 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:27.020 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:27.096 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:23:27.137 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:23:27.195 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:27.196 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:27.442 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:27.614 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:29.736 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:23:29.800 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:29.800 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:23:30.108 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-10-03 23:23:30.340 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-10-03 23:23:30.347 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-10-03 23:23:30.366 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:30.369 [main] LoggerLoad - User is on creating Linkes LIst
+[INFO ] 2023-10-03 23:23:30.597 [main] LoggerLoad - User clicks on Try Here Link
+[INFO ] 2023-10-03 23:23:30.993 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:31.001 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:23:31.020 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:23:31.054 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:31.057 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:31.323 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:31.472 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:31.522 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:23:31.540 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:23:31.553 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:31.553 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:31.722 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:31.835 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:33.922 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:23:33.976 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:33.982 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:23:34.190 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-10-03 23:23:34.538 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:23:34.547 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-10-03 23:23:34.560 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:34.561 [main] LoggerLoad - The user is on the Types of Linked list page
+[INFO ] 2023-10-03 23:23:34.788 [main] LoggerLoad - The user clicks Try Here button on Types of linked list page
+[INFO ] 2023-10-03 23:23:35.191 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:35.193 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:23:35.206 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:23:35.228 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:35.230 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:35.519 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:35.864 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:35.922 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:23:35.940 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:23:35.951 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:35.952 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:36.358 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:36.507 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:38.613 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:23:38.699 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:38.700 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:23:38.971 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-10-03 23:23:39.206 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:23:39.212 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-10-03 23:23:39.230 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:39.231 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-10-03 23:23:40.200 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:40.202 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:23:40.219 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:23:40.240 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:40.240 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:40.684 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:40.814 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:40.859 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:23:40.879 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:23:40.892 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:40.896 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:41.189 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:41.319 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:43.390 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:23:43.448 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:43.452 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:23:43.683 [main] LoggerLoad - The user clicks the Traversal button
+[INFO ] 2023-10-03 23:23:43.871 [main] LoggerLoad - The user is on Traversal of Linked List Page
+[INFO ] 2023-10-03 23:23:43.883 [main] LoggerLoad - Title of current page is : Traversal
+[INFO ] 2023-10-03 23:23:43.897 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:43.898 [main] LoggerLoad - The user is on the Traversal Page 
+[INFO ] 2023-10-03 23:23:44.090 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:23:44.375 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:44.376 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:23:44.399 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:23:44.417 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:44.418 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:44.604 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:44.764 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:44.806 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:23:44.824 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:23:44.834 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:44.834 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:45.008 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:45.189 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:47.262 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:23:47.290 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:47.290 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:23:47.534 [main] LoggerLoad - The user clicks the Insertion button
+[INFO ] 2023-10-03 23:23:47.721 [main] LoggerLoad - The user is on Insertion Page
+[INFO ] 2023-10-03 23:23:47.726 [main] LoggerLoad - Title of current page is : Insertion
+[INFO ] 2023-10-03 23:23:47.738 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:47.739 [main] LoggerLoad - The user is on the Insertion button
+[INFO ] 2023-10-03 23:23:47.936 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:23:48.189 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:48.190 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:23:48.200 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:23:48.229 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:48.230 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:48.426 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:48.546 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:48.596 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:23:48.617 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:23:48.625 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:48.625 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:48.865 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:48.982 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:51.065 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:23:51.103 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:51.104 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:23:51.290 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:23:51.489 [main] LoggerLoad - The user is on Deletion Page
+[INFO ] 2023-10-03 23:23:51.502 [main] LoggerLoad - Title of current page is : Deletion
+[INFO ] 2023-10-03 23:23:51.536 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:51.537 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:23:51.669 [main] LoggerLoad - The user clicks Try Here button on Deletion page
+[INFO ] 2023-10-03 23:23:51.940 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:51.941 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:23:51.950 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:23:51.971 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:51.971 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:52.210 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:52.352 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:52.399 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:23:52.417 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:23:52.462 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:52.464 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:23:52.707 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:23:52.823 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:23:54.902 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:23:54.951 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:23:54.953 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:23:55.204 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:23:55.443 [main] LoggerLoad - The user clicks on the Practice Questions
+[INFO ] 2023-10-03 23:23:55.649 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
+[INFO ] 2023-10-03 23:23:55.660 [main] LoggerLoad - Title of current page is : Practice Questions
+[INFO ] 2023-10-03 23:23:55.671 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-03 23:24:40.360 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-03 23:24:40.369 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:40.372 [main] LoggerLoad - Testing on chrome
+[INFO ] 2023-10-03 23:24:43.620 [main] LoggerLoad - Initializing driver for : chrome
+[INFO ] 2023-10-03 23:24:44.236 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:44.267 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:24:46.171 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:24:46.652 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-10-03 23:24:46.669 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-10-03 23:24:47.026 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:47.037 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-10-03 23:24:47.204 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-10-03 23:24:48.056 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-10-03 23:24:48.063 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-10-03 23:24:48.131 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:48.131 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:24:48.352 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:24:49.671 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:24:49.758 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:24:49.789 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:24:49.825 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:49.825 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:24:50.156 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:24:50.322 [main] LoggerLoad - The user clicks run button
+[ERROR] 2023-10-03 23:24:50.406 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-03 23:24:50.719 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:50.720 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:24:50.916 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-10-03 23:24:51.087 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-10-03 23:24:51.096 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-10-03 23:24:51.125 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:51.125 [main] LoggerLoad - User is on creating Linkes LIst
+[INFO ] 2023-10-03 23:24:51.254 [main] LoggerLoad - User clicks on Try Here Link
+[INFO ] 2023-10-03 23:24:51.574 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:51.576 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:24:51.589 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:24:51.709 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:51.710 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:24:51.889 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:24:52.042 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:24:52.100 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:24:52.119 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:24:52.174 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:52.175 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:24:52.342 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:24:52.491 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:24:54.697 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:24:54.715 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:54.715 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:24:54.940 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-10-03 23:24:55.191 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:24:55.202 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-10-03 23:24:55.251 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:55.252 [main] LoggerLoad - The user is on the Types of Linked list page
+[INFO ] 2023-10-03 23:24:55.441 [main] LoggerLoad - The user clicks Try Here button on Types of linked list page
+[INFO ] 2023-10-03 23:24:55.721 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:55.722 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:24:55.730 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:24:55.750 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:55.751 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:24:55.910 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:24:56.114 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:24:56.199 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:24:56.220 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:24:56.239 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:56.239 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:24:56.414 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:24:56.546 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:24:58.690 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:24:58.724 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:58.725 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:24:58.907 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-10-03 23:24:59.063 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:24:59.073 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-10-03 23:24:59.088 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:59.089 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-10-03 23:24:59.520 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:59.521 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:24:59.533 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:24:59.554 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:24:59.556 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:24:59.787 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:24:59.939 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:24:59.990 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:25:00.014 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:25:00.038 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:00.039 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:25:00.358 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:25:00.510 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:25:02.688 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:25:02.709 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:02.710 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:25:02.868 [main] LoggerLoad - The user clicks the Traversal button
+[INFO ] 2023-10-03 23:25:03.018 [main] LoggerLoad - The user is on Traversal of Linked List Page
+[INFO ] 2023-10-03 23:25:03.025 [main] LoggerLoad - Title of current page is : Traversal
+[INFO ] 2023-10-03 23:25:03.047 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:03.048 [main] LoggerLoad - The user is on the Traversal Page 
+[INFO ] 2023-10-03 23:25:03.172 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:25:03.459 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:03.466 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:25:03.484 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:25:03.504 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:03.506 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:25:03.703 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:25:03.874 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:25:03.920 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:25:03.941 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:25:03.967 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:03.968 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:25:04.181 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:25:04.319 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:25:06.408 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:25:06.436 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:06.437 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:25:06.610 [main] LoggerLoad - The user clicks the Insertion button
+[INFO ] 2023-10-03 23:25:06.793 [main] LoggerLoad - The user is on Insertion Page
+[INFO ] 2023-10-03 23:25:06.805 [main] LoggerLoad - Title of current page is : Insertion
+[INFO ] 2023-10-03 23:25:06.836 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:06.837 [main] LoggerLoad - The user is on the Insertion button
+[INFO ] 2023-10-03 23:25:06.943 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:25:07.186 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:07.186 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:25:07.191 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:25:07.208 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:07.208 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:25:07.392 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:25:07.584 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:25:07.673 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:25:07.693 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:25:07.713 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:07.713 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:25:07.890 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:25:07.992 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:25:10.063 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:25:10.156 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:10.156 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:25:10.334 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:25:10.541 [main] LoggerLoad - The user is on Deletion Page
+[INFO ] 2023-10-03 23:25:10.650 [main] LoggerLoad - Title of current page is : Deletion
+[INFO ] 2023-10-03 23:25:10.668 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:10.669 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:25:10.821 [main] LoggerLoad - The user clicks Try Here button on Deletion page
+[INFO ] 2023-10-03 23:25:11.055 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:11.056 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:25:11.063 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:25:11.088 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:11.089 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:25:11.292 [main] LoggerLoad - Enter values from sheet
+[ERROR] 2023-10-03 23:25:11.410 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-03 23:25:11.675 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:11.677 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:25:11.865 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:25:12.019 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:25:14.100 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:25:14.158 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:25:14.159 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:25:14.453 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:25:14.647 [main] LoggerLoad - The user clicks on the Practice Questions
+[INFO ] 2023-10-03 23:25:14.819 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
+[INFO ] 2023-10-03 23:25:14.824 [main] LoggerLoad - Title of current page is : Practice Questions
+[INFO ] 2023-10-03 23:25:14.832 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-03 23:27:41.982 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-03 23:27:41.986 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:41.986 [main] LoggerLoad - Testing on chrome
+[INFO ] 2023-10-03 23:27:46.369 [main] LoggerLoad - Initializing driver for : chrome
+[INFO ] 2023-10-03 23:27:46.732 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:46.764 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:27:48.281 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:27:48.673 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-10-03 23:27:48.688 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-10-03 23:27:48.711 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:48.714 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-10-03 23:27:48.918 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-10-03 23:27:50.259 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-10-03 23:27:50.267 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-10-03 23:27:50.285 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:50.287 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:27:50.822 [main] LoggerLoad - Enter values from sheet
+[ERROR] 2023-10-03 23:27:51.800 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-03 23:27:52.352 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:52.353 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:27:52.551 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:27:52.727 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:27:54.871 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:27:54.923 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:54.923 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:27:55.177 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-10-03 23:27:55.346 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-10-03 23:27:55.358 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-10-03 23:27:55.374 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:55.377 [main] LoggerLoad - User is on creating Linkes LIst
+[INFO ] 2023-10-03 23:27:55.494 [main] LoggerLoad - User clicks on Try Here Link
+[INFO ] 2023-10-03 23:27:55.721 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:55.725 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:27:55.734 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:27:55.745 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:55.749 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:27:55.934 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:27:56.084 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:27:56.156 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:27:56.191 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:27:56.201 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:56.201 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:27:56.388 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:27:56.517 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:27:58.600 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:27:58.666 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:58.666 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:27:58.837 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-10-03 23:27:59.075 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:27:59.087 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-10-03 23:27:59.100 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:59.100 [main] LoggerLoad - The user is on the Types of Linked list page
+[INFO ] 2023-10-03 23:27:59.256 [main] LoggerLoad - The user clicks Try Here button on Types of linked list page
+[INFO ] 2023-10-03 23:27:59.489 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:59.491 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:27:59.503 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:27:59.516 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:27:59.516 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:27:59.691 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:27:59.927 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:00.008 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:28:00.064 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:28:00.074 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:00.075 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:00.266 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:00.406 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:02.489 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:28:02.500 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:02.501 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:28:02.736 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-10-03 23:28:02.906 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:28:02.916 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-10-03 23:28:02.927 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:02.927 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-10-03 23:28:03.311 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:03.312 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:28:03.323 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:28:03.334 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:03.335 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:03.550 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:03.752 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:03.826 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:28:03.848 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:28:03.854 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:03.855 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:04.044 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:04.229 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:06.322 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:28:06.335 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:06.335 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:28:06.504 [main] LoggerLoad - The user clicks the Traversal button
+[INFO ] 2023-10-03 23:28:06.673 [main] LoggerLoad - The user is on Traversal of Linked List Page
+[INFO ] 2023-10-03 23:28:06.678 [main] LoggerLoad - Title of current page is : Traversal
+[INFO ] 2023-10-03 23:28:06.688 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:06.688 [main] LoggerLoad - The user is on the Traversal Page 
+[INFO ] 2023-10-03 23:28:06.794 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:28:07.043 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:07.044 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:28:07.060 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:28:07.071 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:07.075 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:07.328 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:07.605 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:07.710 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:28:07.731 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:28:07.738 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:07.739 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:07.916 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:08.047 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:10.189 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:28:10.207 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:10.207 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:28:10.388 [main] LoggerLoad - The user clicks the Insertion button
+[INFO ] 2023-10-03 23:28:10.552 [main] LoggerLoad - The user is on Insertion Page
+[INFO ] 2023-10-03 23:28:10.566 [main] LoggerLoad - Title of current page is : Insertion
+[INFO ] 2023-10-03 23:28:10.576 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:10.577 [main] LoggerLoad - The user is on the Insertion button
+[INFO ] 2023-10-03 23:28:10.711 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:28:10.942 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:10.943 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:28:10.966 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:28:10.975 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:10.976 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:11.186 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:11.333 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:11.391 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:28:11.409 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:28:11.416 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:11.416 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:11.651 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:11.803 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:13.928 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:28:13.956 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:13.956 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:28:14.224 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:28:14.409 [main] LoggerLoad - The user is on Deletion Page
+[INFO ] 2023-10-03 23:28:14.423 [main] LoggerLoad - Title of current page is : Deletion
+[INFO ] 2023-10-03 23:28:14.433 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:14.434 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:28:14.617 [main] LoggerLoad - The user clicks Try Here button on Deletion page
+[INFO ] 2023-10-03 23:28:14.925 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:14.926 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:28:14.940 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:28:14.950 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:14.951 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:15.178 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:15.350 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:15.400 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:28:15.420 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:28:15.428 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:15.431 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:15.658 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:15.784 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:17.886 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:28:17.902 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:17.904 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:28:18.162 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:28:18.342 [main] LoggerLoad - The user clicks on the Practice Questions
+[INFO ] 2023-10-03 23:28:18.590 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
+[INFO ] 2023-10-03 23:28:18.606 [main] LoggerLoad - Title of current page is : Practice Questions
+[INFO ] 2023-10-03 23:28:18.607 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-03 23:28:46.717 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-03 23:28:46.722 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:46.725 [main] LoggerLoad - Testing on chrome
+[INFO ] 2023-10-03 23:28:50.142 [main] LoggerLoad - Initializing driver for : chrome
+[INFO ] 2023-10-03 23:28:50.851 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:50.873 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:28:52.559 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:28:53.428 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-10-03 23:28:53.439 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-10-03 23:28:53.599 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:53.600 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-10-03 23:28:53.923 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-10-03 23:28:54.906 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-10-03 23:28:54.914 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-10-03 23:28:54.967 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:54.968 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:55.392 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:56.927 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:57.001 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:28:57.034 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:28:57.081 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:57.081 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:28:57.452 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:28:57.599 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:28:59.705 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:28:59.770 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:28:59.771 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:28:59.936 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-10-03 23:29:00.094 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-10-03 23:29:00.109 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-10-03 23:29:00.173 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:00.180 [main] LoggerLoad - User is on creating Linkes LIst
+[INFO ] 2023-10-03 23:29:00.390 [main] LoggerLoad - User clicks on Try Here Link
+[INFO ] 2023-10-03 23:29:00.712 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:00.717 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:29:00.725 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:29:00.756 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:00.757 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:00.960 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:01.161 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:01.212 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:29:01.233 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:29:01.252 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:01.253 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:01.434 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:01.630 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:03.753 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:29:03.861 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:03.861 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:29:04.110 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-10-03 23:29:04.389 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:29:04.403 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-10-03 23:29:04.448 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:04.448 [main] LoggerLoad - The user is on the Types of Linked list page
+[INFO ] 2023-10-03 23:29:04.618 [main] LoggerLoad - The user clicks Try Here button on Types of linked list page
+[INFO ] 2023-10-03 23:29:04.873 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:04.874 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:29:04.885 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:29:04.905 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:04.906 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:05.112 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:05.308 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:05.361 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:29:05.383 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:29:05.399 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:05.400 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:05.579 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:05.750 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:07.837 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:29:07.862 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:07.862 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:29:08.076 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-10-03 23:29:08.225 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-03 23:29:08.232 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-10-03 23:29:08.255 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:08.262 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-10-03 23:29:08.695 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:08.695 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:29:08.706 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:29:08.726 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:08.726 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:08.993 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:09.190 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:09.258 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:29:09.274 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:29:09.289 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:09.290 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:09.469 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:09.611 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:11.708 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:29:11.741 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:11.742 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:29:11.963 [main] LoggerLoad - The user clicks the Traversal button
+[INFO ] 2023-10-03 23:29:12.116 [main] LoggerLoad - The user is on Traversal of Linked List Page
+[INFO ] 2023-10-03 23:29:12.173 [main] LoggerLoad - Title of current page is : Traversal
+[INFO ] 2023-10-03 23:29:12.222 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:12.223 [main] LoggerLoad - The user is on the Traversal Page 
+[INFO ] 2023-10-03 23:29:12.360 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:29:12.649 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:12.654 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:29:12.666 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:29:12.683 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:12.684 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:12.860 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:13.015 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:13.061 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:29:13.078 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:29:13.092 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:13.093 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:13.283 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:13.418 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:15.538 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:29:15.572 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:15.573 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:29:15.736 [main] LoggerLoad - The user clicks the Insertion button
+[INFO ] 2023-10-03 23:29:15.912 [main] LoggerLoad - The user is on Insertion Page
+[INFO ] 2023-10-03 23:29:15.923 [main] LoggerLoad - Title of current page is : Insertion
+[INFO ] 2023-10-03 23:29:15.941 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:15.942 [main] LoggerLoad - The user is on the Insertion button
+[INFO ] 2023-10-03 23:29:16.105 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-03 23:29:16.346 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:16.352 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:29:16.361 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:29:16.376 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:16.377 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:16.572 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:16.768 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:16.823 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:29:16.839 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:29:16.869 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:16.870 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:17.105 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:17.254 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:19.373 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:29:19.411 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:19.412 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:29:19.569 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:29:19.773 [main] LoggerLoad - The user is on Deletion Page
+[INFO ] 2023-10-03 23:29:19.779 [main] LoggerLoad - Title of current page is : Deletion
+[INFO ] 2023-10-03 23:29:19.794 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:19.795 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-03 23:29:19.951 [main] LoggerLoad - The user clicks Try Here button on Deletion page
+[INFO ] 2023-10-03 23:29:20.202 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:20.203 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-03 23:29:20.207 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-03 23:29:20.219 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:20.219 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:20.427 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:20.606 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:20.664 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-03 23:29:20.680 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-03 23:29:20.694 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:20.695 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-03 23:29:20.874 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-03 23:29:21.004 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-03 23:29:23.073 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-03 23:29:23.090 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-03 23:29:23.090 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-03 23:29:23.333 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-03 23:29:23.539 [main] LoggerLoad - The user clicks on the Practice Questions
+[INFO ] 2023-10-03 23:29:23.776 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
+[INFO ] 2023-10-03 23:29:23.784 [main] LoggerLoad - Title of current page is : Practice Questions
+[INFO ] 2023-10-03 23:29:23.790 [main] LoggerLoad - Closing Driver
