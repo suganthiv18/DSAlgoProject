@@ -73,6 +73,23 @@ public class SignInStepDefinition {
 	public void click_login_button() {
 		signinPg.clickLoginBtn();
 	}
+	
+	@Given("The user clicks sign in button")
+	public void the_user_clicks_sign_in_button() {
+		//signinPg.getHomePage();
+	   signinPg.clickSignin();
+	}
+
+	@Given("enter valid username {string} and password {string}")
+	public void enter_valid_username_and_password(String username, String passwd) {
+	    signinPg.isLogin(username, passwd);
+	}
+
+	@When("The user clicks login button")
+	public void the_user_clicks_login_button() {
+	   signinPg.clickLoginBtn();
+	}
+
 
 	@Given("The user is on signin page with valid username {string} and password {string}")
 	public void the_user_is_on_signin_page_with_valid_username_and_password(String uname, String pwd) {

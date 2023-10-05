@@ -4,6 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException; 
 import java.io.IOException;
 import java.util.Properties;
+import Utilities.LoggerLoad;
 
 public class ConfigReader {
 	private static Properties properties;
@@ -44,7 +45,7 @@ public class ConfigReader {
 	
 	public static String getBrowserType()throws Throwable {
         String browser = properties.getProperty("browser");
-		LoggerLoad.info("Get property BrowserType");
+        LoggerLoad.info("Get property BrowserType");
 		if (browser != null)
 			return browser;
 		else
@@ -53,7 +54,7 @@ public class ConfigReader {
 	
 	public static String getExcelFilepPath() {
 		String path=properties.getProperty("excelpath");
-		LoggerLoad.info("Get property BrowserType");
+	//	LoggerLoad.info("Get property BrowserType");
 		if (path != null)
 			return path;
 		else
@@ -210,5 +211,129 @@ public class ConfigReader {
 		else
 			throw new RuntimeException("Practice Question Url not specified in the Config.properties file.");
 	}
+	
+	//Queue	
+	public static String getqueueurl() {
+		String url = properties.getProperty("queueurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Queue Url not specified in the Config.properties file.");
+	}
+	
+	public static String getimpofqpythonurl() {
+		String url = properties.getProperty("impofqpythonurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Implementationqueue not specified in the Config.properties file.");
+	}
+	
+	public static String getimpcolldqurl() {
+		String url = properties.getProperty("impcolldqurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException(" Url not specified in the Config.properties file.");
+	}
+	
+	public static String getimpusingarrayurl() {
+		String url = properties.getProperty("impusingarrayurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Types of Linked List Url not specified in the Config.properties file.");
+	}
+	
+	public static String getqueueoperationsurl() {
+		String url = properties.getProperty("queueoperationsurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Qeue operations Url not specified in the Config.properties file.");
+	}
+	
+	public static String getqpracquesurl() {
+		String url = properties.getProperty("qpracquesurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Queue practice question ursl Url not specified in the Config.properties file.");
+	}
+
+	public static String getGraphUrl() {
+		String url = properties.getProperty("graphurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("graph Url not specified in the Config.properties file.");
+	}
+
+	public static String getGrapgGraphUrl() {
+		String url = properties.getProperty("graphgraphurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("graph Url not specified in the Config.properties file.");
+	}
+
+	public static String getGraphRepUrl() {
+		String url = properties.getProperty("graphrepresentationsurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Graph epresentations Url not specified in the Config.properties file.");
+	}
+
+	public static String getPracQnGraphUrl() {
+		String url = properties.getProperty("graphpracqnurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Graph practice questions Url not specified in the Config.properties file.");
+	}
+	
+//stack
+	
+	public static String getStackUrl() {
+		String url = properties.getProperty("stackurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Stack Url not specified in the Config.properties file.");
+	}
+
+	public static String getStackOpUrl() {
+		String url = properties.getProperty("stackoperations");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Stack Operations Url not specified in the Config.properties file.");
+	}
+
+	public static String getStackImpUrl() {
+		String url = properties.getProperty("stackimplementation");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Implemenntation Url not specified in the Config.properties file.");
+	}
+
+	public static String getStackAppUrl() {
+		String url = properties.getProperty("stackapplication");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Stack Application Url not specified in the Config.properties file.");
+	}
+
+	public static String getStackPracQnUrl() {
+		String url = properties.getProperty("stackqpracquesurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("Stack practice questions Url not specified in the Config.properties file.");
+	}
+
 	
 }

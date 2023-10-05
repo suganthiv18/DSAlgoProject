@@ -11,7 +11,8 @@ import Utilities.DriverFactory;
 
 public class SignInPage {
 
-	public  static WebDriver driver=DriverFactory.getdriver();;
+	public  static WebDriver driver=DriverFactory.getdriver();
+	String homeurl=ConfigReader.getHomeUrl();
 	String loginUrL=ConfigReader.getSignInUrl();
 
 	boolean isRequired;
@@ -21,6 +22,7 @@ public class SignInPage {
 	@FindBy (xpath="//input[@type='submit']")WebElement loginBtn;
 	@FindBy (xpath="//div[@role='alert']")WebElement alertMsg;
 	@FindBy (xpath="//a[@href='/register']")static WebElement register;
+	@FindBy (xpath="//a[@href='/login']")static WebElement loginlnk;
 	@FindBy (xpath="//a[@href='/logout']")WebElement logoutBtn;
 	
 	public SignInPage() {
@@ -73,6 +75,16 @@ public class SignInPage {
 	}
 	public String getAlertMsg() {
 		return alertMsg.getText();
+	}
+
+	public void clickSignin() {
+	 loginlnk.click();
+		
+	}
+
+	public void getHomePage() {
+		driver.get(homeurl);
+		
 	}
 
 	
