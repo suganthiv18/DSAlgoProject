@@ -1,0 +1,1 @@
+{"uuid":"57b9ce0e-80c7-47bd-a1ae-e35f77d7bdd4","name":"Scenario Outline: User on login page and login with invalid and valid inputs from Excel \"<Sheetname>\" and <RowNumber>","children":["f440d5a4-0b77-4864-a2a6-b90d5c30fc0c"],"befores":[],"afters":[],"start":1696473332975,"stop":1696473333990}
