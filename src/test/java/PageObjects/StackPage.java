@@ -22,13 +22,12 @@ import Utilities.ExcelReader;
 
 public class StackPage {
 	public static WebDriver driver = DriverFactory.getdriver();
-	String excelpath=ConfigReader.getExcelFilepPath();
-	String stackurl = ConfigReader.getStackUrl();
+	String stackurl =ConfigReader.getStackUrl();
 	String stackoperations = ConfigReader.getStackOpUrl();
 	String stackimplementation =ConfigReader.getStackImpUrl();
 	String stackapplication =ConfigReader.getStackAppUrl();
-	String homeUrl=ConfigReader.getHomeUrl();
-	String qpracquesurl = ConfigReader.getStackPracQnUrl();
+    String homeUrl=ConfigReader.getHomeUrl();
+	String qpracquesurl = ConfigReader.getPracQnLLUrl();
 	String tryEditorUrl=ConfigReader.getTryEditorUrl();
 
 	@FindBy(xpath="//a[@href='/tryEditor']") WebElement tryHereElmnt;
@@ -81,11 +80,7 @@ public void clickstackAppl() {
 	}
 
 	public void runPythonCode(String sheetname,int rownum) throws InvalidFormatException, IOException {
-	ExcelReader reader=new ExcelReader();
-		List<Map<String,String>> listPyCode= reader.getData(excelpath,sheetname);
-	String code=listPyCode.get(rownum).get("code");
-	System.out.println("code"+code);
-	textEditorElmnt.sendKeys(code);
+	
 	}
 
 

@@ -327,13 +327,22 @@ public class ConfigReader {
 			throw new RuntimeException("Stack Application Url not specified in the Config.properties file.");
 	}
 
-	public static String getStackPracQnUrl() {
-		String url = properties.getProperty("stackqpracquesurl");
+	//DataStructure
+	public static String getDataStructUrl() {
+		String url = properties.getProperty("datastrucurl");
 		if (url != null)
 			return url;
 		else
-			throw new RuntimeException("Stack practice questions Url not specified in the Config.properties file.");
+			throw new RuntimeException("Data Structure Url not specified in the Config.properties file.");
 	}
+	public static String getTimeComplxtyUrl() {
+		String url = properties.getProperty("timecomplexityurl");
+		if (url != null)
+			return url;
+		else
+			throw new RuntimeException("timecomplexity Url not specified in the Config.properties file.");
+	}
+
 
 	
 }
