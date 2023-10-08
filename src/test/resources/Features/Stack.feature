@@ -1,11 +1,5 @@
 @Stack
 Feature: Testing the Stack Page
-
-  #Background: The user is logged in to DS Algo portal
-  #Given The user is on Signin page of DS Algo portal
-  #When The user enter valid "testuser" and "password1234"
-  #And The user click on login button
-  #Then The user redirected to homepage
   
   @Stack01
   Scenario: The user is able to navigate to Stack Page
@@ -25,11 +19,16 @@ Feature: Testing the Stack Page
       | pythoncode |         0 |
 
   @Stack03
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Stack1 page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
+
+    Examples: 
+      | Sheetname  | RowNumber |
+      | pythoncode |         1 |
+    
 
     Examples: 
       | Sheetname  | RowNumber |
@@ -53,11 +52,16 @@ Feature: Testing the Stack Page
       | pythoncode |         0 |
 
   @Stack06
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Stack2 page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
+
+    Examples: 
+      | Sheetname  | RowNumber |
+      | pythoncode |         1 |
+    
 
     Examples: 
       | Sheetname  | RowNumber |
@@ -81,12 +85,13 @@ Feature: Testing the Stack Page
       | pythoncode |         0 |
 
   @Stack09
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Stack3 page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
       | Sheetname  | RowNumber |
       | pythoncode |         1 |
+    
