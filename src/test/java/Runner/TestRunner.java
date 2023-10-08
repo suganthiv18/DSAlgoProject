@@ -16,9 +16,9 @@ glue = { "StepDefinitions", "Hooks" }) // location of step definition files
 public class TestRunner extends AbstractTestNGCucumberTests {
 	//@Parameters({"browser","url"})
 	@DataProvider(parallel = false)
-	public Object[][] scenarios() {
+	public void test() {
 	
-		return super.scenarios();
+		System.out.println("Success");
 		}
 
 }

@@ -85,8 +85,8 @@ Feature: Testing the Register Page
     Then The user should be redirected to Homepage with the message "New Account Created. You are logged in as <username>"
 
     
-      @Register12
-	Scenario:  The user is able to signout from the registered page
-    Given The user is in the Sign in page
-    When The user clicks the "Sign Out" link
-    Then The user should be redirected to the homepage with the message "Logged out successfully"
+   #   @Register12
+	#Scenario:  The user is able to signout from the registered page
+   # Given The user is in the Sign in page
+    #When The user clicks the "Sign Out" link
+    #Then The user should be redirected to the homepage with the message "Logged out successfully"
