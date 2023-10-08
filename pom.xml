@@ -9,7 +9,7 @@
 				<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-surefire-plugin -->
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
-				<version>3.0.0-M7</version>
+				<version>3.1.2</version>
 				<configuration>
 					<includes>
 						<include>**/TestRunner.java</include>
@@ -117,11 +117,7 @@
     <artifactId>log4j-api</artifactId>
     <version>3.0.0-alpha1</version>
 </dependency>
-   <dependency>
-       <groupId>org.slf4j</groupId>
-       <artifactId>slf4j-api</artifactId>
-       <version>1.7.36</version>
-   </dependency>   <dependency>
+<dependency>
        <groupId>org.slf4j</groupId>
        <artifactId>slf4j-api</artifactId>
        <version>1.7.5</version>
