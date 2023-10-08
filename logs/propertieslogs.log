@@ -13764,3 +13764,1275 @@
 [INFO ] 2023-10-08 13:45:18.761 [main] LoggerLoad - The user clicks run button
 [INFO ] 2023-10-08 13:45:20.911 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
 [INFO ] 2023-10-08 13:45:20.918 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-08 14:09:21.509 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-08 14:09:21.513 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-08 14:09:21.515 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-08 14:09:25.222 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-08 14:09:25.561 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:09:26.345 [main] LoggerLoad - The user clicks Arrays in Python link
+[INFO ] 2023-10-08 14:09:26.782 [main] LoggerLoad - The user is redirected to Arrays in Python page
+[INFO ] 2023-10-08 14:09:26.791 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/arrays-in-python/
+[INFO ] 2023-10-08 14:09:26.962 [main] LoggerLoad - The user is on Arrays in Python page
+[INFO ] 2023-10-08 14:09:26.965 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-08 14:09:27.549 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:27.556 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:09:27.599 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:27.897 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:28.604 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:28.850 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:28.876 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:09:28.890 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:29.130 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:09:29.221 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:31.404 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:09:31.422 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:09:31.567 [main] LoggerLoad - The user clicks Arrays Using List link
+[INFO ] 2023-10-08 14:09:31.695 [main] LoggerLoad - The user should be redirected to Arrays Using List page
+[INFO ] 2023-10-08 14:09:31.698 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/arrays-using-list/
+[INFO ] 2023-10-08 14:09:31.714 [main] LoggerLoad - The user is on Arrays Using List page
+[INFO ] 2023-10-08 14:09:31.834 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-08 14:09:32.086 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:32.095 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:09:32.112 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:32.315 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:32.421 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:32.671 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:32.681 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:09:32.690 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:32.900 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:09:32.993 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:35.108 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:09:35.122 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:09:35.266 [main] LoggerLoad - The user clicks Basic Operations in Lists page
+[INFO ] 2023-10-08 14:09:35.377 [main] LoggerLoad - The user should be redirected to Basic Operations in Lists page
+[INFO ] 2023-10-08 14:09:35.381 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/basic-operations-in-lists/
+[INFO ] 2023-10-08 14:09:35.391 [main] LoggerLoad - The user is on the Basic Operations in Lists page
+[INFO ] 2023-10-08 14:09:35.503 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-08 14:09:35.798 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:35.806 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:09:35.816 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:36.041 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:36.138 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:36.394 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:36.405 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:09:36.412 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:36.604 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:09:36.687 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:38.811 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:09:38.824 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:09:38.968 [main] LoggerLoad - The user clicks Applications of Array link
+[INFO ] 2023-10-08 14:09:39.078 [main] LoggerLoad - The user should be redirected to Applications of Array page
+[INFO ] 2023-10-08 14:09:39.086 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/applications-of-array/
+[INFO ] 2023-10-08 14:09:39.098 [main] LoggerLoad - The user is on the Applications of Array after logged in
+[INFO ] 2023-10-08 14:09:39.215 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-08 14:09:39.466 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:39.470 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:09:39.480 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:39.690 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:39.789 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:40.033 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:40.050 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:09:40.058 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:09:40.266 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:09:40.354 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:42.463 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:09:42.478 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:09:42.607 [main] LoggerLoad - The user clicks Practice Questions link
+[INFO ] 2023-10-08 14:09:42.741 [main] LoggerLoad - The user should be redirected to Practice page
+[INFO ] 2023-10-08 14:09:42.746 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/practice
+[INFO ] 2023-10-08 14:09:42.755 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-08 14:09:42.857 [main] LoggerLoad - The user clicks the Search the array link
+[INFO ] 2023-10-08 14:09:43.099 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-08 14:09:43.107 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/1
+[INFO ] 2023-10-08 14:09:43.121 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-08 14:09:43.523 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:43.611 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:43.852 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:43.861 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:09:43.868 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-08 14:09:44.294 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:44.395 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-08 14:09:44.634 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:45.646 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-08 14:09:45.652 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-08 14:09:46.015 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:09:46.078 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:48.184 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:09:48.195 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-08 14:09:48.303 [main] LoggerLoad - The user clicks the Max Consecutive Ones link
+[INFO ] 2023-10-08 14:09:48.562 [main] LoggerLoad - The user should be redirected to question page contains a tryEditor
+[INFO ] 2023-10-08 14:09:48.565 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/2
+[INFO ] 2023-10-08 14:09:48.575 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-08 14:09:49.069 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:49.155 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:49.396 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:49.405 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:09:49.411 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-08 14:09:49.797 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:49.887 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-08 14:09:50.109 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:51.122 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-08 14:09:51.128 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-08 14:09:51.502 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:09:51.572 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:53.690 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:09:53.701 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-08 14:09:53.841 [main] LoggerLoad - The user clicks on  Find Numbers with Even Number of Digits
+[INFO ] 2023-10-08 14:09:54.163 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-08 14:09:54.167 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/3
+[INFO ] 2023-10-08 14:09:54.179 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-08 14:09:54.651 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:54.746 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:54.987 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:54.995 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:09:55.002 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-08 14:09:55.424 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:09:55.548 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-08 14:09:55.777 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:09:56.798 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-08 14:09:56.804 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-08 14:09:57.295 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:09:57.371 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:09:59.527 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:09:59.541 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-08 14:09:59.674 [main] LoggerLoad - The user clicks on  Squares of a Sorted Array
+[INFO ] 2023-10-08 14:09:59.978 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-08 14:09:59.987 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/4
+[INFO ] 2023-10-08 14:09:59.996 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-08 14:10:00.477 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:10:00.594 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:00.859 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:00.871 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:00.879 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-08 14:10:01.339 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:10:01.438 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-08 14:10:01.657 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:02.669 [main] LoggerLoad - The result is : No tests were collected
+[INFO ] 2023-10-08 14:10:02.678 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-08 14:10:03.116 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:10:03.211 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:05.349 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:05.360 [main] LoggerLoad - The user is on the DS page
+[INFO ] 2023-10-08 14:10:05.499 [main] LoggerLoad - User is on Time Complexity in DS page in Python
+[INFO ] 2023-10-08 14:10:05.622 [main] LoggerLoad - The user should be redirected to Time Complexity in DS page
+[INFO ] 2023-10-08 14:10:05.628 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/data-structures-introduction/time-complexity/
+[INFO ] 2023-10-08 14:10:05.636 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:05.866 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:10:05.962 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:06.202 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:06.211 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:06.224 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:06.499 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:10:06.578 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:08.702 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:08.716 [main] LoggerLoad - The user is on Graph Page
+[INFO ] 2023-10-08 14:10:08.847 [main] LoggerLoad - The user clicks Graph Page link
+[INFO ] 2023-10-08 14:10:08.979 [main] LoggerLoad - The user should be redirected to Graph page
+[INFO ] 2023-10-08 14:10:08.982 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/graph/graph/
+[INFO ] 2023-10-08 14:10:08.989 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:09.249 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:10:09.339 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:09.581 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:09.590 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:09.595 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:09.814 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:10:09.896 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:12.021 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:12.030 [main] LoggerLoad - The user is on Graph Page
+[INFO ] 2023-10-08 14:10:12.166 [main] LoggerLoad - User click on Graph Representations in Python
+[INFO ] 2023-10-08 14:10:12.333 [main] LoggerLoad - The user should be redirected to Graph Representations page
+[INFO ] 2023-10-08 14:10:12.336 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/graph/graph-representations/
+[INFO ] 2023-10-08 14:10:12.344 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:12.584 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:10:12.670 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:12.919 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:12.929 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:12.935 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:13.143 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:10:13.214 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:15.323 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:15.334 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:15.447 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-08 14:10:15.649 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:15.656 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:15.787 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-08 14:10:15.996 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:16.003 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:16.103 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-08 14:10:16.304 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:16.313 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:16.419 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-08 14:10:16.636 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:16.642 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:16.746 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-08 14:10:16.994 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:17.001 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:17.114 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-08 14:10:17.348 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:17.355 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:17.457 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-08 14:10:17.668 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:17.674 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:18.016 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-08 14:10:18.176 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:18.190 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:18.512 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-08 14:10:18.689 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:18.697 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:19.034 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-08 14:10:19.235 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:19.240 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:19.564 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-08 14:10:19.736 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:19.741 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:20.079 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-08 14:10:20.257 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:20.265 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:20.610 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-08 14:10:20.900 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:10:20.905 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:21.213 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-08 14:10:21.235 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-08 14:10:21.241 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:10:21.518 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-08 14:10:21.520 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-08 14:10:21.536 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:10:21.678 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-08 14:10:21.811 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-10-08 14:10:21.816 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-10-08 14:10:21.821 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-10-08 14:10:21.926 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-10-08 14:10:22.243 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-10-08 14:10:22.254 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-10-08 14:10:22.262 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:22.479 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:22.566 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:22.814 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:22.823 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:22.830 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:23.077 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:23.160 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:25.264 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:25.271 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:10:25.410 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-10-08 14:10:25.536 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-10-08 14:10:25.539 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-10-08 14:10:25.545 [main] LoggerLoad - User is on creating Linkes LIst
+[INFO ] 2023-10-08 14:10:25.657 [main] LoggerLoad - User clicks on Try Here Link
+[INFO ] 2023-10-08 14:10:25.921 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:25.928 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:10:25.936 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:26.146 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:26.234 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:26.476 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:26.486 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:26.492 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:26.700 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:26.769 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:28.885 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:28.898 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:10:29.049 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-10-08 14:10:29.214 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-08 14:10:29.216 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-10-08 14:10:29.224 [main] LoggerLoad - The user is on the Types of Linked list page
+[INFO ] 2023-10-08 14:10:29.365 [main] LoggerLoad - The user clicks Try Here button on Types of linked list page
+[INFO ] 2023-10-08 14:10:29.639 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:29.641 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:10:29.649 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:29.867 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:29.955 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:30.208 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:30.217 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:30.223 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:30.417 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:30.484 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:32.621 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:32.628 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:10:32.762 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-10-08 14:10:32.888 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-08 14:10:32.896 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-10-08 14:10:32.902 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-10-08 14:10:33.335 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:33.343 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:10:33.350 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:33.576 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:33.672 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:33.912 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:33.921 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:33.926 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:34.135 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:34.253 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:36.374 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:36.380 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:10:36.517 [main] LoggerLoad - The user clicks the Traversal button
+[INFO ] 2023-10-08 14:10:36.640 [main] LoggerLoad - The user is on Traversal of Linked List Page
+[INFO ] 2023-10-08 14:10:36.649 [main] LoggerLoad - Title of current page is : Traversal
+[INFO ] 2023-10-08 14:10:36.655 [main] LoggerLoad - The user is on the Traversal Page 
+[INFO ] 2023-10-08 14:10:36.811 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-08 14:10:37.084 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:37.086 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:10:37.092 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:37.322 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:37.407 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:37.650 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:37.659 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:37.665 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:37.888 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:37.959 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:40.077 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:40.083 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:10:40.205 [main] LoggerLoad - The user clicks the Insertion button
+[INFO ] 2023-10-08 14:10:40.353 [main] LoggerLoad - The user is on Insertion Page
+[INFO ] 2023-10-08 14:10:40.356 [main] LoggerLoad - Title of current page is : Insertion
+[INFO ] 2023-10-08 14:10:40.365 [main] LoggerLoad - The user is on the Insertion button
+[INFO ] 2023-10-08 14:10:40.490 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-08 14:10:40.942 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:40.955 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:10:40.963 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:41.194 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:41.300 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:41.544 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:41.554 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:41.560 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:41.779 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:41.845 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:43.963 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:43.970 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:10:44.111 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-08 14:10:44.247 [main] LoggerLoad - The user is on Deletion Page
+[INFO ] 2023-10-08 14:10:44.252 [main] LoggerLoad - Title of current page is : Deletion
+[INFO ] 2023-10-08 14:10:44.260 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-08 14:10:44.380 [main] LoggerLoad - The user clicks Try Here button on Deletion page
+[INFO ] 2023-10-08 14:10:44.706 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:44.711 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:10:44.718 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:44.948 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:45.026 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:45.283 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:45.291 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:45.295 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:10:45.515 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:10:45.565 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:47.700 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:47.708 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:10:47.837 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-08 14:10:47.955 [main] LoggerLoad - The user clicks on the Practice Questions
+[INFO ] 2023-10-08 14:10:48.080 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
+[INFO ] 2023-10-08 14:10:48.090 [main] LoggerLoad - Title of current page is : Practice Questions
+[INFO ] 2023-10-08 14:10:48.096 [main] LoggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-10-08 14:10:48.198 [main] LoggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-10-08 14:10:48.344 [main] LoggerLoad - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-10-08 14:10:48.357 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-08 14:10:48.480 [main] LoggerLoad - The user clicks implementation of Queue link
+[INFO ] 2023-10-08 14:10:48.600 [main] LoggerLoad - The user is redirected to Arrays in Python page
+[INFO ] 2023-10-08 14:10:48.606 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/implementation-lists/
+[INFO ] 2023-10-08 14:10:48.610 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:48.820 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:10:48.899 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:49.153 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:49.162 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:49.167 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:49.393 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:10:49.459 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:51.587 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:51.594 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-08 14:10:51.755 [main] LoggerLoad - The user clicks Implementation using Collections link
+[INFO ] 2023-10-08 14:10:51.893 [main] LoggerLoad - The user is redirected to Implementation using Collections page
+[INFO ] 2023-10-08 14:10:51.899 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/implementation-collections/
+[INFO ] 2023-10-08 14:10:51.906 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:52.130 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:10:52.222 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:52.479 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:52.487 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:52.492 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:52.687 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:10:52.751 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:54.856 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:54.870 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-08 14:10:55.012 [main] LoggerLoad - The user clicks Implementation using Collections link
+[INFO ] 2023-10-08 14:10:55.135 [main] LoggerLoad - The user is redirected to Implementation using Array page
+[INFO ] 2023-10-08 14:10:55.147 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/Implementation-array/
+[INFO ] 2023-10-08 14:10:55.151 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:55.387 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:10:55.474 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:55.728 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:55.735 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:55.740 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:55.938 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:10:55.996 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:58.109 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:10:58.116 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-08 14:10:58.245 [main] LoggerLoad - The user clicks Queue Operations link
+[INFO ] 2023-10-08 14:10:58.370 [main] LoggerLoad - The user is redirected to Queue Operations page
+[INFO ] 2023-10-08 14:10:58.374 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/QueueOp/
+[INFO ] 2023-10-08 14:10:58.381 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:58.601 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:10:58.687 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:10:58.940 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:10:58.950 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:10:58.955 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:10:59.153 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:10:59.221 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:01.344 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:06.358 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-08 14:11:06.486 [main] LoggerLoad - User click on Operations in Stack page in Python
+[INFO ] 2023-10-08 14:11:06.614 [main] LoggerLoad - Then user should be redirected to Operations in Stack page
+[INFO ] 2023-10-08 14:11:06.620 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/operations-in-stack/
+[INFO ] 2023-10-08 14:11:06.624 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:06.873 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:06.971 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:07.213 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:07.221 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:07.226 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:07.431 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:07.487 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:09.601 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:09.608 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-08 14:11:09.712 [main] LoggerLoad - User click on Implementations Page in Python
+[INFO ] 2023-10-08 14:11:09.828 [main] LoggerLoad - TThe user should be redirected to Implementations Page
+[INFO ] 2023-10-08 14:11:09.832 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/implementation/
+[INFO ] 2023-10-08 14:11:09.839 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:10.068 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:10.153 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:10.401 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:10.411 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:10.416 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:10.613 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:10.677 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:12.803 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:12.809 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-08 14:11:12.923 [main] LoggerLoad - User click on Applications Page in Python
+[INFO ] 2023-10-08 14:11:13.070 [main] LoggerLoad - The user should be redirected to Applications Page
+[INFO ] 2023-10-08 14:11:13.079 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/stack-applications/
+[INFO ] 2023-10-08 14:11:13.085 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:13.286 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:13.368 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:13.607 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:13.614 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:13.620 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:13.804 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:13.858 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:15.962 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:16.278 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/overview-of-trees/
+[INFO ] 2023-10-08 14:11:16.283 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:16.507 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:16.594 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:16.841 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:16.853 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:16.858 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:17.061 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:17.117 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:19.259 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:19.597 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/terminologies/
+[INFO ] 2023-10-08 14:11:19.604 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:19.851 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:19.944 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:20.191 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:20.199 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:20.204 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:20.415 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:20.468 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:22.584 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:22.858 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-trees/
+[INFO ] 2023-10-08 14:11:22.866 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:23.101 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:23.196 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:23.446 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:23.455 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:23.460 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:23.716 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:23.794 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:25.934 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:26.212 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/tree-traversals/
+[INFO ] 2023-10-08 14:11:26.218 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:26.453 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:26.541 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:26.798 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:26.805 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:26.810 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:27.030 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:27.099 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:29.205 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:29.491 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/traversals-illustration/
+[INFO ] 2023-10-08 14:11:29.498 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:29.719 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:29.805 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:30.051 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:30.062 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:30.067 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:30.278 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:30.341 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:32.457 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:32.728 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-trees/
+[INFO ] 2023-10-08 14:11:32.732 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:32.954 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:33.041 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:33.290 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:33.299 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:33.304 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:33.536 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:33.597 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:35.723 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:36.053 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-binary-trees/
+[INFO ] 2023-10-08 14:11:36.060 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:36.289 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:36.376 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:36.617 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:36.626 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:36.632 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:36.840 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:36.913 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:39.027 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:39.297 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-in-python/
+[INFO ] 2023-10-08 14:11:39.303 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:39.520 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:39.596 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:39.841 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:39.851 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:39.856 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:40.054 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:40.107 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:42.247 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:42.544 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-tree-traversals/
+[INFO ] 2023-10-08 14:11:42.550 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:42.775 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:42.854 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:43.107 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:43.115 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:43.120 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:43.324 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:43.378 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:45.515 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:45.796 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-binary-trees/
+[INFO ] 2023-10-08 14:11:45.802 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:46.070 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:46.169 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:46.420 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:46.428 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:46.434 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:46.732 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:46.811 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:48.969 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:49.242 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/applications-of-binary-trees/
+[INFO ] 2023-10-08 14:11:49.247 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:49.478 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:49.562 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:49.806 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:49.815 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:49.820 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:50.033 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:50.109 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:52.219 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:52.961 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-search-trees/
+[INFO ] 2023-10-08 14:11:52.965 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:53.208 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:53.295 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:53.541 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:53.551 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:53.557 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:53.803 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:53.873 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:55.989 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:56.283 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-bst/
+[INFO ] 2023-10-08 14:11:56.287 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:56.538 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:11:56.627 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:56.876 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:11:56.886 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:11:56.892 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:11:57.088 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:11:57.151 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:11:59.309 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:11:59.315 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-08 14:24:22.828 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-08 14:24:22.832 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-08 14:24:22.832 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-08 14:24:26.838 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-08 14:24:26.974 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:27.640 [main] LoggerLoad - The user did not enter any inputs in the fields
+[INFO ] 2023-10-08 14:24:27.964 [main] LoggerLoad - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-10-08 14:24:28.006 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:28.204 [main] LoggerLoad - The user enter valid username with other fields empty
+[INFO ] 2023-10-08 14:24:28.206 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:24:28.509 [main] LoggerLoad - Error message is displayed  an error below Password textbox
+[INFO ] 2023-10-08 14:24:28.528 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:28.666 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:24:28.692 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-08 14:24:28.982 [main] LoggerLoad - Error message is displayed  an error below Password textbox
+[INFO ] 2023-10-08 14:24:29.003 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:29.113 [main] LoggerLoad - The user enter username : &**&**&
+[INFO ] 2023-10-08 14:24:29.151 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-08 14:24:29.366 [main] LoggerLoad - Expected Error message is: Please enter a valid username
+[INFO ] 2023-10-08 14:24:29.391 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:24:29.402 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:29.531 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:24:29.569 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-08 14:24:29.759 [main] LoggerLoad - Expected Error message is: password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:24:29.772 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:24:29.786 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:29.910 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:24:29.941 [main] LoggerLoad - The user enter password : a1b2c3d
+[INFO ] 2023-10-08 14:24:30.116 [main] LoggerLoad - Expected Error message is: Password should contain at least 8 characters
+[INFO ] 2023-10-08 14:24:30.126 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:24:30.134 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:30.250 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:24:30.271 [main] LoggerLoad - The user enter password : 12345678
+[INFO ] 2023-10-08 14:24:30.465 [main] LoggerLoad - Expected Error message is: Password can’t be entirely numeric.
+[INFO ] 2023-10-08 14:24:30.475 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:24:30.484 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:30.594 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:24:30.616 [main] LoggerLoad - The user enter password : testsdet84
+[INFO ] 2023-10-08 14:24:30.903 [main] LoggerLoad - Expected Error message is: password can’t be too similar to your other personal information.
+[INFO ] 2023-10-08 14:24:30.917 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): New Account Created. You are logged in as Numpy@sdet125_1
+[INFO ] 2023-10-08 14:24:30.924 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:31.054 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:24:31.074 [main] LoggerLoad - The user enter password : Welcome1
+[INFO ] 2023-10-08 14:24:31.245 [main] LoggerLoad - Expected Error message is: Password can’t be commonly used password
+[INFO ] 2023-10-08 14:24:31.257 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:24:31.265 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:31.382 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:24:31.405 [main] LoggerLoad - The user enter password : RT56YUabc
+[INFO ] 2023-10-08 14:24:31.562 [main] LoggerLoad - Expected Error message is: Username already exists
+[INFO ] 2023-10-08 14:24:31.582 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:24:31.589 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:24:31.693 [main] LoggerLoad - The user enter username : Nump@sdet1031
+[INFO ] 2023-10-08 14:24:31.726 [main] LoggerLoad - The user enter password : siseli11
+[INFO ] 2023-10-08 14:24:31.899 [main] LoggerLoad - Valid User redirected to Homepage 
+[INFO ] 2023-10-08 14:24:31.903 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-08 14:24:31.915 [main] LoggerLoad - The user is in sign in page already
+[INFO ] 2023-10-08 14:24:32.086 [main] LoggerLoad - The user clicks sign out 
+[INFO ] 2023-10-08 14:24:32.101 [main] LoggerLoad - Logged out alert messageLogged out successfully is shown on the top
+[INFO ] 2023-10-08 14:24:32.102 [main] LoggerLoad - Closing Driver
+[INFO ] 2023-10-08 14:25:01.195 [main] LoggerLoad - Loading Config file
+[INFO ] 2023-10-08 14:25:01.200 [main] LoggerLoad - Get property BrowserType
+[INFO ] 2023-10-08 14:25:01.202 [main] LoggerLoad - Testing on firefox
+[INFO ] 2023-10-08 14:25:04.864 [main] LoggerLoad - Initializing driver for : firefox
+[INFO ] 2023-10-08 14:25:05.201 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:25:05.982 [main] LoggerLoad - The user clicks Arrays in Python link
+[INFO ] 2023-10-08 14:25:06.333 [main] LoggerLoad - The user is redirected to Arrays in Python page
+[INFO ] 2023-10-08 14:25:06.347 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/arrays-in-python/
+[INFO ] 2023-10-08 14:25:06.490 [main] LoggerLoad - The user is on Arrays in Python page
+[INFO ] 2023-10-08 14:25:06.491 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-08 14:25:07.051 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:07.055 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:25:07.102 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:07.401 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:08.128 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:08.375 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:08.398 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:08.421 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:08.623 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:08.713 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:10.895 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:10.912 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:25:11.051 [main] LoggerLoad - The user clicks Arrays Using List link
+[INFO ] 2023-10-08 14:25:11.181 [main] LoggerLoad - The user should be redirected to Arrays Using List page
+[INFO ] 2023-10-08 14:25:11.186 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/arrays-using-list/
+[INFO ] 2023-10-08 14:25:11.201 [main] LoggerLoad - The user is on Arrays Using List page
+[INFO ] 2023-10-08 14:25:11.313 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-08 14:25:11.597 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:11.603 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:25:11.620 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:11.842 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:11.945 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:12.197 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:12.207 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:12.215 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:12.428 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:12.523 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:14.647 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:14.661 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:25:14.792 [main] LoggerLoad - The user clicks Basic Operations in Lists page
+[INFO ] 2023-10-08 14:25:14.954 [main] LoggerLoad - The user should be redirected to Basic Operations in Lists page
+[INFO ] 2023-10-08 14:25:14.963 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/basic-operations-in-lists/
+[INFO ] 2023-10-08 14:25:14.977 [main] LoggerLoad - The user is on the Basic Operations in Lists page
+[INFO ] 2023-10-08 14:25:15.079 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-08 14:25:15.382 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:15.387 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:25:15.394 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:15.594 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:15.694 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:15.941 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:15.952 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:15.960 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:16.171 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:16.257 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:18.384 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:18.394 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:25:18.526 [main] LoggerLoad - The user clicks Applications of Array link
+[INFO ] 2023-10-08 14:25:18.649 [main] LoggerLoad - The user should be redirected to Applications of Array page
+[INFO ] 2023-10-08 14:25:18.657 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/applications-of-array/
+[INFO ] 2023-10-08 14:25:18.669 [main] LoggerLoad - The user is on the Applications of Array after logged in
+[INFO ] 2023-10-08 14:25:18.779 [main] LoggerLoad - The user clicks Try Here button
+[INFO ] 2023-10-08 14:25:19.043 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:19.047 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:25:19.064 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:19.281 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:19.387 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:19.631 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:19.640 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:19.647 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:19.853 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:19.931 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:22.036 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:22.049 [main] LoggerLoad - The user is on Array Page
+[INFO ] 2023-10-08 14:25:22.182 [main] LoggerLoad - The user clicks Practice Questions link
+[INFO ] 2023-10-08 14:25:22.302 [main] LoggerLoad - The user should be redirected to Practice page
+[INFO ] 2023-10-08 14:25:22.310 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/array/practice
+[INFO ] 2023-10-08 14:25:22.322 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-08 14:25:22.416 [main] LoggerLoad - The user clicks the Search the array link
+[INFO ] 2023-10-08 14:25:22.675 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-08 14:25:22.678 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/1
+[INFO ] 2023-10-08 14:25:22.687 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-08 14:25:23.083 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:23.174 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:23.420 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:23.430 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:23.437 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-08 14:25:24.050 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:24.163 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-08 14:25:24.401 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:25.419 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-08 14:25:25.427 [main] LoggerLoad - The user is on Question page of Search the array link
+[INFO ] 2023-10-08 14:25:25.786 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:25.857 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:27.958 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:27.972 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-08 14:25:28.081 [main] LoggerLoad - The user clicks the Max Consecutive Ones link
+[INFO ] 2023-10-08 14:25:28.349 [main] LoggerLoad - The user should be redirected to question page contains a tryEditor
+[INFO ] 2023-10-08 14:25:28.351 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/2
+[INFO ] 2023-10-08 14:25:28.361 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-08 14:25:28.755 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:28.848 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:29.099 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:29.109 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:29.116 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-08 14:25:29.484 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:29.578 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-08 14:25:29.800 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:30.822 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-08 14:25:30.829 [main] LoggerLoad - The user is on Question page of Max Consecutive Ones
+[INFO ] 2023-10-08 14:25:31.191 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:31.261 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:33.381 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:33.393 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-08 14:25:33.535 [main] LoggerLoad - The user clicks on  Find Numbers with Even Number of Digits
+[INFO ] 2023-10-08 14:25:33.819 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-08 14:25:33.823 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/3
+[INFO ] 2023-10-08 14:25:33.830 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-08 14:25:34.264 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:34.360 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:34.614 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:34.624 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:34.632 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-08 14:25:35.167 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:35.267 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-08 14:25:35.488 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:36.507 [main] LoggerLoad - The result is :Error occurred during submission
+[INFO ] 2023-10-08 14:25:36.516 [main] LoggerLoad - The user is on Question page of Find Numbers with Even Number of Digit
+[INFO ] 2023-10-08 14:25:37.024 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:37.087 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:39.250 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:39.260 [main] LoggerLoad - The user is on the Practice page after logged in
+[INFO ] 2023-10-08 14:25:39.399 [main] LoggerLoad - The user clicks on  Squares of a Sorted Array
+[INFO ] 2023-10-08 14:25:39.697 [main] LoggerLoad - The user should be redirected to question page contains an tryEditor
+[INFO ] 2023-10-08 14:25:39.710 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/question/4
+[INFO ] 2023-10-08 14:25:39.723 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-08 14:25:40.231 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:40.348 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:40.595 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:40.609 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:40.617 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-08 14:25:41.099 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:41.197 [main] LoggerLoad - The user clicks Submit button
+[INFO ] 2023-10-08 14:25:41.439 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:42.453 [main] LoggerLoad - The result is : No tests were collected
+[INFO ] 2023-10-08 14:25:42.461 [main] LoggerLoad - The user is on Question page of Squares of a Sorted Array
+[INFO ] 2023-10-08 14:25:42.913 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:43.002 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:45.156 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:45.167 [main] LoggerLoad - The user is on the DS page
+[INFO ] 2023-10-08 14:25:45.304 [main] LoggerLoad - User is on Time Complexity in DS page in Python
+[INFO ] 2023-10-08 14:25:45.433 [main] LoggerLoad - The user should be redirected to Time Complexity in DS page
+[INFO ] 2023-10-08 14:25:45.436 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/data-structures-introduction/time-complexity/
+[INFO ] 2023-10-08 14:25:45.444 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:45.668 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:45.766 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:46.024 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:46.033 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:46.040 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:46.259 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:46.347 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:48.491 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:48.507 [main] LoggerLoad - The user is on Graph Page
+[INFO ] 2023-10-08 14:25:48.663 [main] LoggerLoad - The user clicks Graph Page link
+[INFO ] 2023-10-08 14:25:48.805 [main] LoggerLoad - The user should be redirected to Graph page
+[INFO ] 2023-10-08 14:25:48.812 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/graph/graph/
+[INFO ] 2023-10-08 14:25:48.819 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:49.041 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:49.127 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:49.374 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:49.383 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:49.389 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:49.587 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:49.653 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:51.760 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:51.771 [main] LoggerLoad - The user is on Graph Page
+[INFO ] 2023-10-08 14:25:51.908 [main] LoggerLoad - User click on Graph Representations in Python
+[INFO ] 2023-10-08 14:25:52.068 [main] LoggerLoad - The user should be redirected to Graph Representations page
+[INFO ] 2023-10-08 14:25:52.071 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/graph/graph-representations/
+[INFO ] 2023-10-08 14:25:52.078 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:52.312 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:25:52.402 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:52.654 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:25:52.664 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:25:52.674 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:25:52.876 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:25:52.948 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:25:55.080 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:25:55.092 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:55.216 [main] LoggerLoad - User clicks on DataStructures 
+[INFO ] 2023-10-08 14:25:55.457 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:55.462 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:55.575 [main] LoggerLoad - User clicks on Array 
+[INFO ] 2023-10-08 14:25:55.789 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:55.794 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:55.898 [main] LoggerLoad - User clicks on LinkedList 
+[INFO ] 2023-10-08 14:25:56.120 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:56.129 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:56.235 [main] LoggerLoad - User clicks on Stack 
+[INFO ] 2023-10-08 14:25:56.443 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:56.452 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:56.560 [main] LoggerLoad - User clicks on queue 
+[INFO ] 2023-10-08 14:25:56.776 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:56.782 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:56.883 [main] LoggerLoad - User clicks on tree 
+[INFO ] 2023-10-08 14:25:57.096 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:57.106 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:57.209 [main] LoggerLoad - User clicks on graph 
+[INFO ] 2023-10-08 14:25:57.431 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:57.439 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:57.766 [main] LoggerLoad - User click on Arrays
+[INFO ] 2023-10-08 14:25:57.924 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:57.934 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:58.272 [main] LoggerLoad - User click on Linkedlist
+[INFO ] 2023-10-08 14:25:58.426 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:58.435 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:58.763 [main] LoggerLoad - User click on Stack
+[INFO ] 2023-10-08 14:25:58.941 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:58.950 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:59.288 [main] LoggerLoad - User click on Queue
+[INFO ] 2023-10-08 14:25:59.449 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:25:59.457 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:25:59.793 [main] LoggerLoad - User click on Tree
+[INFO ] 2023-10-08 14:26:00.179 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:26:00.188 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:26:00.528 [main] LoggerLoad - User click on Graph
+[INFO ] 2023-10-08 14:26:00.697 [main] LoggerLoad - Alert Message: You are not logged in
+[INFO ] 2023-10-08 14:26:00.706 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:26:00.984 [main] LoggerLoad - User redirected to Register page 
+[INFO ] 2023-10-08 14:26:01.011 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-08 14:26:01.020 [main] LoggerLoad - The user is on Home page
+[INFO ] 2023-10-08 14:26:01.286 [main] LoggerLoad - User redirected to Login page 
+[INFO ] 2023-10-08 14:26:01.293 [main] LoggerLoad - Title of current page is : Login
+[INFO ] 2023-10-08 14:26:01.308 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:26:01.474 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-08 14:26:01.607 [main] LoggerLoad - The user is on Introduction Link
+[INFO ] 2023-10-08 14:26:01.610 [main] LoggerLoad - Title of current page is : Introduction
+[INFO ] 2023-10-08 14:26:01.617 [main] LoggerLoad - The user is Introduction Page
+[INFO ] 2023-10-08 14:26:01.739 [main] LoggerLoad - The user clicks Try Here Button
+[INFO ] 2023-10-08 14:26:02.083 [main] LoggerLoad - The user is on tryEditor Page
+[INFO ] 2023-10-08 14:26:02.090 [main] LoggerLoad - Title of current page is : Assessment
+[INFO ] 2023-10-08 14:26:02.101 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:02.321 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:02.414 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:02.661 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:02.670 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:02.675 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:02.917 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:02.989 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:05.105 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:05.112 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:26:05.242 [main] LoggerLoad - User clicks on creating Linkes LIst
+[INFO ] 2023-10-08 14:26:05.366 [main] LoggerLoad - The user is on Creating Linked LIst Link
+[INFO ] 2023-10-08 14:26:05.369 [main] LoggerLoad - Title of current page is : Creating Linked LIst
+[INFO ] 2023-10-08 14:26:05.379 [main] LoggerLoad - User is on creating Linkes LIst
+[INFO ] 2023-10-08 14:26:05.513 [main] LoggerLoad - User clicks on Try Here Link
+[INFO ] 2023-10-08 14:26:05.744 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:05.750 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:26:05.758 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:05.985 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:06.070 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:06.323 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:06.334 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:06.340 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:06.536 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:06.609 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:08.724 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:08.732 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:26:08.868 [main] LoggerLoad - The user clicks the Types of Linked List button
+[INFO ] 2023-10-08 14:26:09.048 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-08 14:26:09.055 [main] LoggerLoad - Title of current page is : Types of Linked List
+[INFO ] 2023-10-08 14:26:09.068 [main] LoggerLoad - The user is on the Types of Linked list page
+[INFO ] 2023-10-08 14:26:09.206 [main] LoggerLoad - The user clicks Try Here button on Types of linked list page
+[INFO ] 2023-10-08 14:26:09.469 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:09.472 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:26:09.478 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:09.688 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:09.780 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:10.023 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:10.032 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:10.038 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:10.224 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:10.295 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:12.403 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:12.408 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:26:12.576 [main] LoggerLoad - user clicks the Implement Linked List in Python Link
+[INFO ] 2023-10-08 14:26:12.718 [main] LoggerLoad - The user is on Types of Linked List of Linked List Page
+[INFO ] 2023-10-08 14:26:12.721 [main] LoggerLoad - Title of current page is : Implement Linked List in Python
+[INFO ] 2023-10-08 14:26:12.729 [main] LoggerLoad - user clicks the Implement Linked List in Python page
+[INFO ] 2023-10-08 14:26:13.093 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:13.101 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:26:13.107 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:13.341 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:13.417 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:13.892 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:13.903 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:13.908 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:14.120 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:14.186 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:16.315 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:16.321 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:26:16.453 [main] LoggerLoad - The user clicks the Traversal button
+[INFO ] 2023-10-08 14:26:16.616 [main] LoggerLoad - The user is on Traversal of Linked List Page
+[INFO ] 2023-10-08 14:26:16.618 [main] LoggerLoad - Title of current page is : Traversal
+[INFO ] 2023-10-08 14:26:16.628 [main] LoggerLoad - The user is on the Traversal Page 
+[INFO ] 2023-10-08 14:26:16.762 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-08 14:26:17.129 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:17.136 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:26:17.144 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:17.361 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:17.436 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:17.685 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:17.697 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:17.706 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:17.931 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:18.015 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:20.141 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:20.147 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:26:20.330 [main] LoggerLoad - The user clicks the Insertion button
+[INFO ] 2023-10-08 14:26:20.561 [main] LoggerLoad - The user is on Insertion Page
+[INFO ] 2023-10-08 14:26:20.564 [main] LoggerLoad - Title of current page is : Insertion
+[INFO ] 2023-10-08 14:26:20.574 [main] LoggerLoad - The user is on the Insertion button
+[INFO ] 2023-10-08 14:26:20.784 [main] LoggerLoad - The user clicks Try Here button on traversal page
+[INFO ] 2023-10-08 14:26:21.346 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:21.350 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:26:21.358 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:21.660 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:21.754 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:21.999 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:22.011 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:22.019 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:22.247 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:22.319 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:24.438 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:24.449 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:26:24.596 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-08 14:26:24.725 [main] LoggerLoad - The user is on Deletion Page
+[INFO ] 2023-10-08 14:26:24.729 [main] LoggerLoad - Title of current page is : Deletion
+[INFO ] 2023-10-08 14:26:24.735 [main] LoggerLoad - The user clicks the Deletion button
+[INFO ] 2023-10-08 14:26:24.859 [main] LoggerLoad - The user clicks Try Here button on Deletion page
+[INFO ] 2023-10-08 14:26:25.222 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:25.227 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tryEditor
+[INFO ] 2023-10-08 14:26:25.231 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:25.520 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:25.604 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:25.846 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:25.852 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:25.858 [main] LoggerLoad - The user is  tryEditor Page
+[INFO ] 2023-10-08 14:26:26.088 [main] LoggerLoad - Enter values from sheet
+[INFO ] 2023-10-08 14:26:26.184 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:28.341 [main] LoggerLoad - Actual Error message is  :NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:28.346 [main] LoggerLoad - The user on inked List page
+[INFO ] 2023-10-08 14:26:28.485 [main] LoggerLoad - The user clicks Introduction Link
+[INFO ] 2023-10-08 14:26:28.611 [main] LoggerLoad - The user clicks on the Practice Questions
+[INFO ] 2023-10-08 14:26:28.769 [main] LoggerLoad - The user is on Practice Questions of Linked List Page
+[INFO ] 2023-10-08 14:26:28.780 [main] LoggerLoad - Title of current page is : Practice Questions
+[INFO ] 2023-10-08 14:26:28.787 [main] LoggerLoad - User is on DSAlgo portal page
+[INFO ] 2023-10-08 14:26:28.916 [main] LoggerLoad - User clicks on "Getstarted link" on Main Page
+[INFO ] 2023-10-08 14:26:29.085 [main] LoggerLoad - Title of current page is ***** NumpyNinja ****
+[INFO ] 2023-10-08 14:26:29.099 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-08 14:26:29.254 [main] LoggerLoad - The user clicks implementation of Queue link
+[INFO ] 2023-10-08 14:26:29.359 [main] LoggerLoad - The user is redirected to Arrays in Python page
+[INFO ] 2023-10-08 14:26:29.368 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/implementation-lists/
+[INFO ] 2023-10-08 14:26:29.375 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:29.623 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:26:29.736 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:30.007 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:30.017 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:30.024 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:30.293 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:26:30.371 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:32.495 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:32.504 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-08 14:26:32.661 [main] LoggerLoad - The user clicks Implementation using Collections link
+[INFO ] 2023-10-08 14:26:32.791 [main] LoggerLoad - The user is redirected to Implementation using Collections page
+[INFO ] 2023-10-08 14:26:32.800 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/implementation-collections/
+[INFO ] 2023-10-08 14:26:32.808 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:33.102 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:26:33.190 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:33.437 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:33.446 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:33.454 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:33.725 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:26:33.788 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:35.915 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:35.922 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-08 14:26:36.058 [main] LoggerLoad - The user clicks Implementation using Collections link
+[INFO ] 2023-10-08 14:26:36.185 [main] LoggerLoad - The user is redirected to Implementation using Array page
+[INFO ] 2023-10-08 14:26:36.187 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/Implementation-array/
+[INFO ] 2023-10-08 14:26:36.194 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:36.408 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:26:36.491 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:36.749 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:36.758 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:36.764 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:36.974 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:26:37.042 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:39.167 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:39.173 [main] LoggerLoad - The user is on Queue Page
+[INFO ] 2023-10-08 14:26:39.330 [main] LoggerLoad - The user clicks Queue Operations link
+[INFO ] 2023-10-08 14:26:39.464 [main] LoggerLoad - The user is redirected to Queue Operations page
+[INFO ] 2023-10-08 14:26:39.475 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/queue/QueueOp/
+[INFO ] 2023-10-08 14:26:39.483 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:39.771 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:26:39.856 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:40.113 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:26:40.123 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:26:40.130 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:26:40.351 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:26:40.436 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:26:42.553 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:26:42.567 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:42.739 [main] LoggerLoad - The user did not enter any inputs in the fields
+[INFO ] 2023-10-08 14:26:43.023 [main] LoggerLoad - Error message is displayed Please fill out this field. an error below Username textbox
+[INFO ] 2023-10-08 14:26:43.037 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:43.157 [main] LoggerLoad - The user enter valid username with other fields empty
+[INFO ] 2023-10-08 14:26:43.159 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:26:43.472 [main] LoggerLoad - Error message is displayed  an error below Password textbox
+[INFO ] 2023-10-08 14:26:43.480 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:43.612 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:26:43.635 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-08 14:26:43.922 [main] LoggerLoad - Error message is displayed  an error below Password textbox
+[INFO ] 2023-10-08 14:26:43.934 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:44.036 [main] LoggerLoad - The user enter username : &**&**&
+[INFO ] 2023-10-08 14:26:44.061 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-08 14:26:44.254 [main] LoggerLoad - Expected Error message is: Please enter a valid username
+[INFO ] 2023-10-08 14:26:44.276 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:26:44.284 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:44.405 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:26:44.430 [main] LoggerLoad - The user enter password : testpassword
+[INFO ] 2023-10-08 14:26:44.631 [main] LoggerLoad - Expected Error message is: password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:26:44.650 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:26:44.660 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:44.796 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:26:44.831 [main] LoggerLoad - The user enter password : a1b2c3d
+[INFO ] 2023-10-08 14:26:45.029 [main] LoggerLoad - Expected Error message is: Password should contain at least 8 characters
+[INFO ] 2023-10-08 14:26:45.043 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:26:45.050 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:45.176 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:26:45.209 [main] LoggerLoad - The user enter password : 12345678
+[INFO ] 2023-10-08 14:26:45.375 [main] LoggerLoad - Expected Error message is: Password can’t be entirely numeric.
+[INFO ] 2023-10-08 14:26:45.382 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:26:45.389 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:45.499 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:26:45.521 [main] LoggerLoad - The user enter password : testsdet84
+[INFO ] 2023-10-08 14:26:45.686 [main] LoggerLoad - Expected Error message is: password can’t be too similar to your other personal information.
+[INFO ] 2023-10-08 14:26:45.704 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:26:45.713 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:45.848 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:26:45.880 [main] LoggerLoad - The user enter password : Welcome1
+[INFO ] 2023-10-08 14:26:46.036 [main] LoggerLoad - Expected Error message is: Password can’t be commonly used password
+[INFO ] 2023-10-08 14:26:46.049 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:26:46.055 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:46.153 [main] LoggerLoad - The user enter username : Numpy@sdet125_1
+[INFO ] 2023-10-08 14:26:46.190 [main] LoggerLoad - The user enter password : RT56YUabc
+[INFO ] 2023-10-08 14:26:46.338 [main] LoggerLoad - Expected Error message is: Username already exists
+[INFO ] 2023-10-08 14:26:46.353 [main] LoggerLoad - Error message in Website after filling up every field is(no characters): password_mismatch:The two password fields didn’t match.
+[INFO ] 2023-10-08 14:26:46.360 [main] LoggerLoad - The user opens Register page
+[INFO ] 2023-10-08 14:26:46.456 [main] LoggerLoad - The user enter username : Nump@sdet1031
+[INFO ] 2023-10-08 14:26:46.488 [main] LoggerLoad - The user enter password : siseli11
+[INFO ] 2023-10-08 14:26:46.670 [main] LoggerLoad - Valid User redirected to Homepage 
+[INFO ] 2023-10-08 14:26:46.680 [main] LoggerLoad - Title of current page is : Registration
+[INFO ] 2023-10-08 14:26:46.694 [main] LoggerLoad - The user is in sign in page already
+[ERROR] 2023-10-08 14:27:46.723 [main] LoggerLoad - Steps Failed , Taking Screenshot
+[INFO ] 2023-10-08 14:27:51.564 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-08 14:27:51.707 [main] LoggerLoad - User click on Operations in Stack page in Python
+[INFO ] 2023-10-08 14:27:51.953 [main] LoggerLoad - Then user should be redirected to Operations in Stack page
+[INFO ] 2023-10-08 14:27:51.956 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/operations-in-stack/
+[INFO ] 2023-10-08 14:27:51.961 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:27:52.250 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:27:52.326 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:27:52.575 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:27:52.583 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:27:52.590 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:27:52.790 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:27:52.845 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:27:54.979 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:27:54.991 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-08 14:27:55.143 [main] LoggerLoad - User click on Implementations Page in Python
+[INFO ] 2023-10-08 14:27:55.273 [main] LoggerLoad - TThe user should be redirected to Implementations Page
+[INFO ] 2023-10-08 14:27:55.277 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/implementation/
+[INFO ] 2023-10-08 14:27:55.285 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:27:55.511 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:27:55.605 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:27:55.854 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:27:55.864 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:27:55.871 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:27:56.078 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:27:56.156 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:27:58.282 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:27:58.291 [main] LoggerLoad - The user is on Stack Page
+[INFO ] 2023-10-08 14:27:58.401 [main] LoggerLoad - User click on Applications Page in Python
+[INFO ] 2023-10-08 14:27:58.519 [main] LoggerLoad - The user should be redirected to Applications Page
+[INFO ] 2023-10-08 14:27:58.526 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/stack/stack-applications/
+[INFO ] 2023-10-08 14:27:58.534 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:27:58.739 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:27:58.825 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:27:59.083 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:27:59.089 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:27:59.095 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:27:59.280 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:27:59.335 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:01.451 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:01.756 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/overview-of-trees/
+[INFO ] 2023-10-08 14:28:01.768 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:01.997 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:02.085 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:02.333 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:02.343 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:02.349 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:02.544 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:02.606 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:04.738 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:05.027 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/terminologies/
+[INFO ] 2023-10-08 14:28:05.033 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:05.257 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:05.352 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:05.593 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:05.603 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:05.608 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:05.822 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:05.874 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:07.990 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:08.253 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-trees/
+[INFO ] 2023-10-08 14:28:08.260 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:08.497 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:08.592 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:08.842 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:08.851 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:08.861 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:09.056 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:09.157 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:11.276 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:11.550 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/tree-traversals/
+[INFO ] 2023-10-08 14:28:11.556 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:11.763 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:11.854 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:12.099 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:12.106 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:12.111 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:12.328 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:12.380 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:14.497 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:14.784 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/traversals-illustration/
+[INFO ] 2023-10-08 14:28:14.790 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:15.009 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:15.088 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:15.340 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:15.350 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:15.355 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:15.545 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:15.598 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:17.719 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:18.000 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-trees/
+[INFO ] 2023-10-08 14:28:18.005 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:18.251 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:18.337 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:18.579 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:18.589 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:18.594 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:18.819 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:18.883 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:21.018 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:21.380 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/types-of-binary-trees/
+[INFO ] 2023-10-08 14:28:21.388 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:21.601 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:21.698 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:21.943 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:21.953 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:21.958 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:22.152 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:22.206 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:24.336 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:24.597 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-in-python/
+[INFO ] 2023-10-08 14:28:24.601 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:24.827 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:24.908 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:25.152 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:25.160 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:25.165 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:25.366 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:25.425 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:27.540 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:27.838 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-tree-traversals/
+[INFO ] 2023-10-08 14:28:27.845 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:28.060 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:28.149 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:28.387 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:28.395 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:28.399 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:28.586 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:28.646 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:30.762 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:31.051 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-binary-trees/
+[INFO ] 2023-10-08 14:28:31.057 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:31.305 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:31.392 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:31.643 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:31.650 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:31.655 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:31.897 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:31.966 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:34.094 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:34.371 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/applications-of-binary-trees/
+[INFO ] 2023-10-08 14:28:34.376 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:34.635 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:34.730 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:34.978 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:34.988 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:34.993 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:35.233 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:35.297 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:37.431 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:37.870 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/binary-search-trees/
+[INFO ] 2023-10-08 14:28:37.874 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:38.086 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:38.170 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:38.414 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:38.422 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:38.427 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:38.630 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:38.685 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:40.834 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:41.113 [main] LoggerLoad - Title of current page is : https://dsportalapp.herokuapp.com/tree/implementation-of-bst/
+[INFO ] 2023-10-08 14:28:41.122 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:41.347 [main] LoggerLoad - The user enter valid python code in tryEditor
+[INFO ] 2023-10-08 14:28:41.433 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:41.674 [main] LoggerLoad - The user is presented output
+[INFO ] 2023-10-08 14:28:41.686 [main] LoggerLoad - The result is :Hello
+[INFO ] 2023-10-08 14:28:41.691 [main] LoggerLoad - The user clicks is on Try Editor page
+[INFO ] 2023-10-08 14:28:41.884 [main] LoggerLoad - The user is enters pythoncode
+[INFO ] 2023-10-08 14:28:41.937 [main] LoggerLoad - The user clicks run button
+[INFO ] 2023-10-08 14:28:44.070 [main] LoggerLoad - Actual Error message is  : NameError: name 'hello' is not defined on line 1
+[INFO ] 2023-10-08 14:28:44.075 [main] LoggerLoad - Closing Driver
