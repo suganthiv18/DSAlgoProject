@@ -23,19 +23,5 @@ dryRun=false,
 monochrome = true)
 
 public class TestRunner{
-	
+
 }
-
-//public class TestRunner extends AbstractTestNGCucumberTests {
-
-//	@DataProvider(parallel=false)
-//	public Object[][]scenarios(){
-//		return super.scenarios();
-//	}
-//	
-//	@BeforeTest
-//	@Parameters("browser")
-//	public void beforeClass(String browser){
-//		ConfigReader.setBrowserType("browser");
-//	}
-//}

@@ -11,7 +11,7 @@
 				<artifactId>maven-surefire-plugin</artifactId>
 				<version>3.0.0-M7</version>
 				<configuration>
-					  <includes>
+					<includes>
 						<include>**/TestRunner.java</include>
 					</includes>
 					<suiteXmlFiles>
@@ -117,7 +117,20 @@
     <artifactId>log4j-api</artifactId>
     <version>3.0.0-alpha1</version>
 </dependency>
-
+   <dependency>
+       <groupId>org.slf4j</groupId>
+       <artifactId>slf4j-api</artifactId>
+       <version>1.7.36</version>
+   </dependency>   <dependency>
+       <groupId>org.slf4j</groupId>
+       <artifactId>slf4j-api</artifactId>
+       <version>1.7.5</version>
+   </dependency>
+   <dependency>
+       <groupId>org.slf4j</groupId>
+       <artifactId>slf4j-simple</artifactId>
+       <version>1.6.4</version>
+   </dependency>
 
 <!-- https://mvnrepository.com/artifact/org.testng/testng -->
 <dependency>
