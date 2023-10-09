@@ -24,10 +24,10 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree03
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
@@ -52,10 +52,10 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree06
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
@@ -80,16 +80,16 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree09
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
       | Sheetname  | RowNumber |
       | pythoncode |         1 |
-
+      
   @Tree10
   Scenario: The user is able to navigate to Tree Page
     Given The user is on the Tree page
@@ -108,11 +108,15 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree12
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
+
+    Examples: 
+      | Sheetname  | RowNumber |
+      | pythoncode |         1 |
 
     Examples: 
       | Sheetname  | RowNumber |
@@ -136,16 +140,16 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree15
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
       | Sheetname  | RowNumber |
       | pythoncode |         1 |
-
+      
   @Tree16
   Scenario: The user is able to navigate to Tree Page
     Given The user is on the Tree page
@@ -164,10 +168,10 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree18
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
@@ -192,10 +196,10 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree21
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
@@ -220,10 +224,10 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree24
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
@@ -237,16 +241,16 @@ Feature: Testing the Tree Page
     Then The user should be redirected to Binary Tree Traversals page
 
   @Tree26
-  Scenario Outline: The user is able run code in tryEditor for Tree page
+  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
-    When The user enter valid python code in tryEditor from sheet "<Sheetname>" and <RowNumber>
-    And The user clicks run button
-    Then The user should be presented with Run result
+    When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
+   	And The user clicks run button
+    Then The user should be presented with error result
 
     Examples: 
       | Sheetname  | RowNumber |
-      | pythoncode |         0 |
-
+      | pythoncode |         1 |
+      
   @Tree27
   Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
     Given The user is in a page having an tryEditor with a Run button to test
@@ -276,10 +280,10 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree30
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
@@ -304,10 +308,10 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree33
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
@@ -332,10 +336,10 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree36
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
@@ -360,10 +364,10 @@ Feature: Testing the Tree Page
       | pythoncode |         0 |
 
   @Tree39
-  Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Tree page
+ Scenario Outline: The user is presented with error message for code with invalid syntax in tryEditor for Implementation of Queue page
     Given The user is in a page having an tryEditor with a Run button to test
     When The user enter python code with invalid syntax in tryEditor from sheet  "<Sheetname>" and <RowNumber>
-    And The user clicks run button
+   	And The user clicks run button
     Then The user should be presented with error result
 
     Examples: 
